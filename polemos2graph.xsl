@@ -2,7 +2,7 @@
 <!--
 
 LGPL  http://www.gnu.org/licenses/lgpl.html
-© 2013 Frederic.Glorieux@fictif.org et LABEX OBVIL
+© 2016 LABEX OBVIL, gongoradigital
 
 Extraction du texte d'un corpus TEI pour recherche plein texte ou traitements linguistiques
 (ex : suppressions des notes, résolution de l'apparat)
@@ -16,7 +16,7 @@ Doit pouvoir fonctionner en import.
   exclude-result-prefixes="tei"
   >
   <xsl:output omit-xml-declaration="yes" encoding="UTF-8" method="text" indent="yes"/>
-  <xsl:param name="file" select="/*/@xml:id"/>
+  <xsl:param name="file" select="/*/@xml:id|/*/@n"/>
   <xsl:variable name="apos">'</xsl:variable>
   <xsl:variable name="quot">"</xsl:variable>
   <xsl:variable name="poetica" select="document('../gongora_obra-poetica.xml')"/>
@@ -102,7 +102,7 @@ Doit pouvoir fonctionner en import.
     </table>
   </xsl:template>
 
-  <xsl:template match="tei:name[@type='polemista'] | tei:persName " mode="graph">
+  <xsl:template match="tei:name | tei:persName " mode="graph">
     <!-- Récupérer ce qui vient de plus haut -->
     <xsl:param name="date"/>
     <xsl:param name="id"/>
