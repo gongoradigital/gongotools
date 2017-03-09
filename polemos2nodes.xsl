@@ -60,6 +60,8 @@ substring-before(
       <!-- type -->
       <xsl:value-of select="$tab"/>
       <xsl:text>text</xsl:text>
+      <!-- date -->
+      <xsl:value-of select="$tab"/>
       <xsl:value-of select="substring-before( /*/@n, '_' )"/>
       <xsl:value-of select="$lf"/>
       
@@ -83,11 +85,11 @@ substring-before(
         <xsl:if test="count($key) &gt; 0 and count($key[1]|.) = 1">
           <!-- Id -->
           <xsl:value-of select="$id"/>
-          <xsl:value-of select="$tab"/>
           <!-- Label -->
-          <xsl:value-of select="$id"/>
           <xsl:value-of select="$tab"/>
+          <xsl:value-of select="$id"/>
           <!-- type -->
+          <xsl:value-of select="$tab"/>
           <xsl:choose>
             <xsl:when test="@type">
               <xsl:value-of select="@type"/>
