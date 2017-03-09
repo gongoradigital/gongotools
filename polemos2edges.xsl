@@ -19,7 +19,7 @@ Doit pouvoir fonctionner en import.
   <xsl:param name="file" select="/*/@xml:id|/*/@n"/>
   <xsl:variable name="apos">'</xsl:variable>
   <xsl:variable name="quot">"</xsl:variable>
-  <xsl:variable name="poetica" select="document('../polemos/gongora_obra-poetica.xml')"/>
+  <xsl:variable name="poetica" select="document('../gongoraobra/gongora_obra-poetica.xml')"/>
   <xsl:variable name="lf">
     <xsl:text>&#10;</xsl:text>
   </xsl:variable>
@@ -79,25 +79,21 @@ Doit pouvoir fonctionner en import.
   -->
   <xsl:template match="/*" mode="graph">
     <table>
-      <xsl:text>file</xsl:text>
+      <xsl:text>Source</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>Target</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>mode</xsl:text>
       <xsl:value-of select="$tab"/>
       <xsl:text>section</xsl:text>
       <xsl:value-of select="$tab"/>
       <xsl:text>date</xsl:text>
       <xsl:value-of select="$tab"/>
-      <xsl:text>Source</xsl:text>
+      <xsl:text>labelSource</xsl:text>
       <xsl:value-of select="$tab"/>
-      <xsl:text>Target</xsl:text>
+      <xsl:text>PoemTitle</xsl:text>
       <xsl:value-of select="$tab"/>
-      <xsl:text>label</xsl:text>
-      <xsl:value-of select="$tab"/>
-      <xsl:text>type</xsl:text>
-      <xsl:value-of select="$tab"/>
-      <xsl:text>misc1</xsl:text>
-      <xsl:value-of select="$tab"/>
-      <xsl:text>misc2</xsl:text>
-      <xsl:value-of select="$tab"/>
-      <xsl:text>misc3</xsl:text>
+      <xsl:text>PoemDate</xsl:text>
       <xsl:value-of select="$lf"/>
       <xsl:apply-templates mode="graph" select="*"/>
       <xsl:value-of select="$lf"/>
@@ -111,19 +107,10 @@ Doit pouvoir fonctionner en import.
     <xsl:param name="Source"/>
     <!-- file,section,date,Source,Target,type -->
     <xsl:if test="$Source != ''">
-      <!-- file -->
-      <xsl:value-of select="$file"/>
-      <xsl:value-of select="$tab"/>
-      <!-- section -->
-      <xsl:value-of select="$id"/>
-      <xsl:value-of select="$tab"/>
-      <!-- date -->
-      <xsl:value-of select="$date"/>
-      <xsl:value-of select="$tab"/>
       <!-- Source -->
-      <xsl:value-of select="$Source"/>
-      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$file"/>
       <!-- Target -->
+      <xsl:value-of select="$tab"/>
       <xsl:choose>
         <xsl:when test="@key">
           <xsl:value-of select="@key"/>
@@ -132,11 +119,8 @@ Doit pouvoir fonctionner en import.
           <xsl:value-of select="normalize-space(.)"/>
         </xsl:otherwise>
       </xsl:choose>
+      <!-- mode -->
       <xsl:value-of select="$tab"/>
-      <!-- Label texte -->
-      <xsl:value-of select="normalize-space(.)"/>
-      <xsl:value-of select="$tab"/>
-      <!-- type -->
       <xsl:choose>
         <xsl:when test="@type">
           <xsl:value-of select="@type"/>
@@ -145,14 +129,31 @@ Doit pouvoir fonctionner en import.
           <xsl:value-of select="local-name()"/>
         </xsl:otherwise>
       </xsl:choose>
+      <!-- section -->
       <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$id"/>
+      <!-- date -->
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="substring( $date, 1, 4)"/>
+      <!-- Source -->
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$Source"/>
       <!-- misc1 -->
-      <xsl:value-of select="@precision"/>
       <xsl:value-of select="$tab"/>
+      <xsl:choose>
+        <xsl:when test="@precision = 0"/>
+        <xsl:when test="@precision = 1">cité</xsl:when>
+        <xsl:when test="@precision = 2">mentionné</xsl:when>
+        <xsl:when test="@precision = 3">mentionné et cité</xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="@precision"/>
+        </xsl:otherwise>
+      </xsl:choose>
       <!-- misc2 -->
-      <xsl:value-of select="@unit"/>
       <xsl:value-of select="$tab"/>
+      <xsl:value-of select="@unit"/>
       <!-- misc3 -->
+      <xsl:value-of select="$tab"/>
       <xsl:value-of select="@quantity"/>
       <xsl:value-of select="$lf"/>
     </xsl:if>
@@ -173,19 +174,10 @@ Doit pouvoir fonctionner en import.
         '#'
       )"/>
     <xsl:if test="$Source != ''">
-      <!-- file -->
-      <xsl:value-of select="$file"/>
-      <xsl:value-of select="$tab"/>
-      <!-- section -->
-      <xsl:value-of select="$id"/>
-      <xsl:value-of select="$tab"/>
-      <!-- date -->
-      <xsl:value-of select="$date"/>
-      <xsl:value-of select="$tab"/>
       <!-- Source -->
-      <xsl:value-of select="$Source"/>
-      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$file"/>
       <!-- Target -->
+      <xsl:value-of select="$tab"/>
       <xsl:choose>
         <xsl:when test="contains(., '.')">
           <xsl:value-of select="normalize-space(substring-before(., '.'))"/>
@@ -194,18 +186,24 @@ Doit pouvoir fonctionner en import.
           <xsl:value-of select="normalize-space(.)"/>
         </xsl:otherwise>
       </xsl:choose>
+      <!-- mode -->
       <xsl:value-of select="$tab"/>
-      <!-- label -->
-      <xsl:value-of select="$poem"/>
-      <xsl:value-of select="$tab"/>
-      <!-- type -->
       <xsl:value-of select="local-name()"/>
+      <!-- section -->
       <xsl:value-of select="$tab"/>
-      <!-- misc1 -->
+      <xsl:value-of select="$id"/>
+      <!-- date -->
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="substring( $date, 1, 4)"/>
+      <!-- Source -->
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$Source"/>
+      <!-- PoemTitle -->
+      <xsl:value-of select="$tab"/>
       <xsl:variable name="ref" select="$poetica//tei:ref[@target=concat('#', $poem)]"/>
       <xsl:value-of select="$ref"/>
+      <!-- PoemDate -->
       <xsl:value-of select="$tab"/>
-      <!-- misc2 -->
       <xsl:value-of select="$ref/../../tei:cell[2]"/>
       <xsl:value-of select="$lf"/>
     </xsl:if>
