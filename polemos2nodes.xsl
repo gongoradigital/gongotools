@@ -113,7 +113,14 @@ substring-before(
         <xsl:variable name="key" select="key('refs', $id)"/>
         <xsl:if test="count( $key) &gt; 0 and count($key[1]|.) = 1">
           <!-- Id -->
-          <xsl:value-of select="$id"/>
+          <xsl:choose>
+            <xsl:when test="contains(., '.')">
+              <xsl:value-of select="normalize-space(substring-before(., '.'))"/>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="normalize-space(.)"/>
+            </xsl:otherwise>
+          </xsl:choose>
           <!-- Label -->
           <xsl:value-of select="$tab"/>
           <xsl:variable name="ref" select="$poetica//tei:ref[@target=concat('#', $id)]"/>
