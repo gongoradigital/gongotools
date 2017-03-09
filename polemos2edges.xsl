@@ -94,6 +94,12 @@ Doit pouvoir fonctionner en import.
       <xsl:text>PoemTitle</xsl:text>
       <xsl:value-of select="$tab"/>
       <xsl:text>PoemDate</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>precision</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>unit</xsl:text>
+      <xsl:value-of select="$tab"/>
+      <xsl:text>quantity</xsl:text>
       <xsl:value-of select="$lf"/>
       <xsl:apply-templates mode="graph" select="*"/>
       <xsl:value-of select="$lf"/>
@@ -138,7 +144,10 @@ Doit pouvoir fonctionner en import.
       <!-- Source -->
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$Source"/>
-      <!-- misc1 -->
+      <!-- PoemTitle -->
+      <xsl:value-of select="$tab"/>
+      <!-- PoemDate -->
+      <xsl:value-of select="$tab"/>
       <xsl:value-of select="$tab"/>
       <xsl:choose>
         <xsl:when test="@precision = 0"/>

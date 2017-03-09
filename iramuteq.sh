@@ -4,5 +4,5 @@ do
   FILENAME="${SRCFILE##*/}"
   NAME=${FILENAME%.*}
   DESTFILE=iramuteq/"$NAME"_ira.txt
-  xsltproc ../Teinte/tei2iramuteq.xsl $SRCFILE >> export/polemos.txt
+  xsltproc tei2iramuteq.xsl $SRCFILE >> export/polemos_iramuteq.txt
 done
