@@ -98,6 +98,7 @@ substring-before(
               <xsl:value-of select="local-name()"/>
             </xsl:otherwise>
           </xsl:choose>
+          <xsl:value-of select="$tab"/>
           <xsl:value-of select="$lf"/>
         </xsl:if>
       </xsl:for-each>
