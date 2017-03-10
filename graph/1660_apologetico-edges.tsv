@@ -50,21 +50,21 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	preliminar10	1661	Diego de Loaysa y Zárate					
 1660_apologetico	Luis de Góngora	polemista	preliminar10	1661	Diego de Loaysa y Zárate					
 1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar10	1661	Diego de Loaysa y Zárate					
-1660_apologetico	OC255	ref	preliminar10	1661	Diego de Loaysa y Zárate	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC264C	ref	preliminar11	1661	Bernabé Gascón Riquelme	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
+1660_apologetico	OC255	ref	preliminar10	1661	Diego de Loaysa y Zárate	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC264C	ref	preliminar11	1661	Bernabé Gascón Riquelme	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar11	1661	Bernabé Gascón Riquelme					
-1660_apologetico	OC264A	ref	preliminar11	1661	Bernabé Gascón Riquelme	Pasos de un peregrino son, errante [Dedicatoria Soledades]	1613
+1660_apologetico	OC264A	ref	preliminar11	1661	Bernabé Gascón Riquelme	Pasos de un peregrino son, errante [Dedicatoria Soledades]	1613			
 1660_apologetico	Santo Tomás	authority	preliminar12	1661	Juan de Lira					
 1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar12	1661	Juan de Lira					
 1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar13	1661	Francisco López Mejía					
 1660_apologetico	Manuel de Faría y Sousa	polemista	preliminar13	1661	Francisco López Mejía					
 1660_apologetico	García de Salcedo Coronel	polemista	preliminar15	1661	Juan de Espinosa Medrano					
-1660_apologetico	OC313	ref	preliminar15	1661	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
-1660_apologetico	OC264A	ref	preliminar15	1661	Juan de Espinosa Medrano	Pasos de un peregrino son, errante [Dedicatoria Soledades]	1613
-1660_apologetico	OC313	ref	preliminar15	1661	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
+1660_apologetico	OC313	ref	preliminar15	1661	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC264A	ref	preliminar15	1661	Juan de Espinosa Medrano	Pasos de un peregrino son, errante [Dedicatoria Soledades]	1613			
+1660_apologetico	OC313	ref	preliminar15	1661	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
 1660_apologetico	García de Salcedo Coronel	polemista	preliminar15	1661	Juan de Espinosa Medrano					
-1660_apologetico	OC264C	ref	preliminar15	1661	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	preliminar15	1661	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
+1660_apologetico	OC264C	ref	preliminar15	1661	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	preliminar15	1661	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1660_apologetico	Luis de Góngora	polemista	preliminar16	1661	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	preliminar16	1661	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	preliminar16	1661	Juan de Espinosa Medrano					
@@ -105,18 +105,18 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion2_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Camoens	authority	seccion2_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion2_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
@@ -148,32 +148,32 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion2	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion2	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion2	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion2	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC264B	ref	seccion2	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC255	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion2	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion2	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion2	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC264B	ref	seccion2	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC255	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Luis de Góngora	polemista	seccion3_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	OC264B	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC255	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC264B	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264C	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
+1660_apologetico	OC264B	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC255	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC264B	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264C	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1660_apologetico	Camoens	authority	seccion3_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion3	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion3	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Gerónimo Columna	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Georgio Sabino	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Camoens	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion3	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion3	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264B	ref	seccion3	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC264B	ref	seccion3	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Platón	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Platón	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Tertuliano	authority	seccion3	1660	Juan de Espinosa Medrano					
@@ -187,13 +187,13 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264C	ref	seccion3	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
+1660_apologetico	OC264C	ref	seccion3	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1660_apologetico	Virgilio	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC317	ref	seccion3	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618
-1660_apologetico	OC317	ref	seccion3	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618
-1660_apologetico	OC317	ref	seccion3	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618
+1660_apologetico	OC317	ref	seccion3	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618			
+1660_apologetico	OC317	ref	seccion3	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618			
+1660_apologetico	OC317	ref	seccion3	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618			
 1660_apologetico	García de Salcedo Coronel	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	García de Salcedo Coronel	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
@@ -202,28 +202,28 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC154	ref	seccion3	1660	Juan de Espinosa Medrano	Del león, que en la Silva apenas cabe	1604
+1660_apologetico	OC154	ref	seccion3	1660	Juan de Espinosa Medrano	Del león, que en la Silva apenas cabe	1604			
 1660_apologetico	García de Salcedo Coronel	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Hadriano Junio	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Tertuliano	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617
+1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264B	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4_Faria	1660	Manuel de Faría y Sousa	Si arrebatado merecí algún día	1617			
 1660_apologetico	Luis de Góngora	polemista	seccion4_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Dante	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Petrarca	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
@@ -251,9 +251,9 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Pacuvio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC31	ref	seccion4	1660	Juan de Espinosa Medrano	Verdes hermanas del audaz mozuelo	1583
-1660_apologetico	OC319	ref	seccion4	1660	Juan de Espinosa Medrano	Esta de flores, cuando no divina,	1619
-1660_apologetico	OC287	ref	seccion4	1660	Juan de Espinosa Medrano	No entre las flores, no, señor don Diego,	1615
+1660_apologetico	OC31	ref	seccion4	1660	Juan de Espinosa Medrano	Verdes hermanas del audaz mozuelo	1583			
+1660_apologetico	OC319	ref	seccion4	1660	Juan de Espinosa Medrano	Esta de flores, cuando no divina,	1619			
+1660_apologetico	OC287	ref	seccion4	1660	Juan de Espinosa Medrano	No entre las flores, no, señor don Diego,	1615			
 1660_apologetico	Marcial	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Pacuvio	authority	seccion4	1660	Juan de Espinosa Medrano					
@@ -282,14 +282,14 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264B	ref	seccion4	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC264B	ref	seccion4	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
-1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
-1660_apologetico	OC264B	ref	seccion4	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC264B	ref	seccion4	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
@@ -301,7 +301,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	San Jerónimo	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
+1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Georgio Sabino	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Ambrosio de Morales	authority	seccion4	1660	Juan de Espinosa Medrano					
@@ -319,7 +319,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion4	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion4	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Cicerón	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
@@ -335,7 +335,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Hortensio Félix Paravicino	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264C	ref	seccion5	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
+1660_apologetico	OC264C	ref	seccion5	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1660_apologetico	Juan de Mena	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
@@ -379,7 +379,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Virgilio	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Ovidio	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion5	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion5	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Marco Antonio Mureto	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Marco Antonio Mureto	authority	seccion5	1660	Juan de Espinosa Medrano					
@@ -414,7 +414,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264B	ref	seccion5	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC264B	ref	seccion5	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Camoens	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
@@ -448,24 +448,24 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Ariphades	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Aristóteles	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264B	ref	seccion6	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC264B	ref	seccion6	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Alonso López Pinciano	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Alonso López Pinciano	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Aristóteles	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Aristóteles	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	los comentadores de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Plinio el Mayor	authority	seccion6	1660	Juan de Espinosa Medrano					
@@ -474,11 +474,11 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Plinio el Mayor	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Plinio el Mayor	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264C	ref	seccion6	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC264C	ref	seccion6	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Bartolomé Leonardo de Argensola	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Gracián	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
@@ -561,7 +561,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC463	ref	seccion7	1660	Juan de Espinosa Medrano	Patos de la aguachirle castellana,	ant. a 1622
+1660_apologetico	OC463	ref	seccion7	1660	Juan de Espinosa Medrano	Patos de la aguachirle castellana,	ant. a 1622			
 1660_apologetico	García de Salcedo Coronel	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion7	1660	Juan de Espinosa Medrano					
@@ -581,48 +581,48 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion8_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion8	1660	Juan de Espinosa Medrano					
 1660_apologetico	José Pellicer de Ossau y Tovar	polemista	seccion8	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264B	ref	seccion8	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC264B	ref	seccion8	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	José Pellicer de Ossau y Tovar	polemista	seccion8	1660	Juan de Espinosa Medrano					
 1660_apologetico	García de Salcedo Coronel	polemista	seccion8	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion8	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC26	ref	seccion8	1660	Juan de Espinosa Medrano	Que se nos va la pascua, mozas	1582
-1660_apologetico	OC80	ref	seccion8	1660	Juan de Espinosa Medrano	Famosos son, en las armas	1590
-1660_apologetico	OC389	ref	seccion8	1660	Juan de Espinosa Medrano	Menos solicitó veloz saeta	1623
-1660_apologetico	OC264B	ref	seccion8	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC311	ref	seccion8	1660	Juan de Espinosa Medrano	En vez de las Helíades, ahora	1617
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC315	ref	seccion8	1660	Juan de Espinosa Medrano	Caballo que despediste,	1617
-1660_apologetico	OC324	ref	seccion8	1660	Juan de Espinosa Medrano	Guerra me hacen dos cuidados	1619
-1660_apologetico	OC383	ref	seccion8	1660	Juan de Espinosa Medrano	«Ave del plumaje negro,	1622
-1660_apologetico	OC255	ref	seccion8	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC145	ref	seccion8	1660	Juan de Espinosa Medrano	Sobre trastes de guijas	1603
-1660_apologetico	OC18	ref	seccion8	1660	Juan de Espinosa Medrano	Cual parece al romper de la mañana	1582
-1660_apologetico	OC33	ref	seccion8	1660	Juan de Espinosa Medrano	Cuál del Ganges marfil, o cuál de Paro	1583
-1660_apologetico	OC61	ref	seccion8	1660	Juan de Espinosa Medrano	Levantando blanca espuma	1586
-1660_apologetico	OC82	ref	seccion8	1660	Juan de Espinosa Medrano	Dejad los libros ahora	1590
-1660_apologetico	OC147	ref	seccion8	1660	Juan de Espinosa Medrano	De un monte en los senos, donde	1603
-1660_apologetico	OC160	ref	seccion8	1660	Juan de Espinosa Medrano	A un tiempo dejaba el sol	1605
-1660_apologetico	OC202	ref	seccion8	1660	Juan de Espinosa Medrano	Mal haya el que en señores idolatra	1609
-1660_apologetico	OC219	ref	seccion8	1660	Juan de Espinosa Medrano	Pálida restituye a su elemento	1610
-1660_apologetico	OC249	ref	seccion8	1660	Juan de Espinosa Medrano	Cloris, el más bello grano	1611
-1660_apologetico	OC255	ref	seccion8	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC264B	ref	seccion8	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC350	ref	seccion8	1660	Juan de Espinosa Medrano	Por las faldas del Atlante,	1620
-1660_apologetico	OC372	ref	seccion8	1660	Juan de Espinosa Medrano	Guarda corderos, zagala,	1621
-1660_apologetico	OC375	ref	seccion8	1660	Juan de Espinosa Medrano	Al tronco descansaba de una encina	1622
-1660_apologetico	OC255	ref	seccion8	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
-1660_apologetico	OC279	ref	seccion8	1660	Juan de Espinosa Medrano	Al campo salió, el estío,	1614
-1660_apologetico	OC313	ref	seccion8	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
-1660_apologetico	OC317	ref	seccion8	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618
-1660_apologetico	OC351	ref	seccion8	1660	Juan de Espinosa Medrano	En la fuerza de Almería	1620
-1660_apologetico	OC360	ref	seccion8	1660	Juan de Espinosa Medrano	Aljófares risueños de Albïela:	1621
+1660_apologetico	OC26	ref	seccion8	1660	Juan de Espinosa Medrano	Que se nos va la pascua, mozas	1582			
+1660_apologetico	OC80	ref	seccion8	1660	Juan de Espinosa Medrano	Famosos son, en las armas	1590			
+1660_apologetico	OC389	ref	seccion8	1660	Juan de Espinosa Medrano	Menos solicitó veloz saeta	1623			
+1660_apologetico	OC264B	ref	seccion8	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC311	ref	seccion8	1660	Juan de Espinosa Medrano	En vez de las Helíades, ahora	1617			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC315	ref	seccion8	1660	Juan de Espinosa Medrano	Caballo que despediste,	1617			
+1660_apologetico	OC324	ref	seccion8	1660	Juan de Espinosa Medrano	Guerra me hacen dos cuidados	1619			
+1660_apologetico	OC383	ref	seccion8	1660	Juan de Espinosa Medrano	«Ave del plumaje negro,	1622			
+1660_apologetico	OC255	ref	seccion8	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC145	ref	seccion8	1660	Juan de Espinosa Medrano	Sobre trastes de guijas	1603			
+1660_apologetico	OC18	ref	seccion8	1660	Juan de Espinosa Medrano	Cual parece al romper de la mañana	1582			
+1660_apologetico	OC33	ref	seccion8	1660	Juan de Espinosa Medrano	Cuál del Ganges marfil, o cuál de Paro	1583			
+1660_apologetico	OC61	ref	seccion8	1660	Juan de Espinosa Medrano	Levantando blanca espuma	1586			
+1660_apologetico	OC82	ref	seccion8	1660	Juan de Espinosa Medrano	Dejad los libros ahora	1590			
+1660_apologetico	OC147	ref	seccion8	1660	Juan de Espinosa Medrano	De un monte en los senos, donde	1603			
+1660_apologetico	OC160	ref	seccion8	1660	Juan de Espinosa Medrano	A un tiempo dejaba el sol	1605			
+1660_apologetico	OC202	ref	seccion8	1660	Juan de Espinosa Medrano	Mal haya el que en señores idolatra	1609			
+1660_apologetico	OC219	ref	seccion8	1660	Juan de Espinosa Medrano	Pálida restituye a su elemento	1610			
+1660_apologetico	OC249	ref	seccion8	1660	Juan de Espinosa Medrano	Cloris, el más bello grano	1611			
+1660_apologetico	OC255	ref	seccion8	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC264B	ref	seccion8	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC350	ref	seccion8	1660	Juan de Espinosa Medrano	Por las faldas del Atlante,	1620			
+1660_apologetico	OC372	ref	seccion8	1660	Juan de Espinosa Medrano	Guarda corderos, zagala,	1621			
+1660_apologetico	OC375	ref	seccion8	1660	Juan de Espinosa Medrano	Al tronco descansaba de una encina	1622			
+1660_apologetico	OC255	ref	seccion8	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1660_apologetico	OC264C	ref	seccion8	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1660_apologetico	OC279	ref	seccion8	1660	Juan de Espinosa Medrano	Al campo salió, el estío,	1614			
+1660_apologetico	OC313	ref	seccion8	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
+1660_apologetico	OC317	ref	seccion8	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618			
+1660_apologetico	OC351	ref	seccion8	1660	Juan de Espinosa Medrano	En la fuerza de Almería	1620			
+1660_apologetico	OC360	ref	seccion8	1660	Juan de Espinosa Medrano	Aljófares risueños de Albïela:	1621			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion8	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion8	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion8	1660	Juan de Espinosa Medrano					
@@ -634,7 +634,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Lucano	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Claudiano	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Ronsard	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC264B	ref	seccion9	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613
+1660_apologetico	OC264B	ref	seccion9	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Vatablo	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Marcial	authority	seccion9	1660	Juan de Espinosa Medrano					
@@ -679,14 +679,12 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC223	ref	seccion10	1660	Juan de Espinosa Medrano	En roscas de cristal serpiente breve	1610
+1660_apologetico	OC223	ref	seccion10	1660	Juan de Espinosa Medrano	En roscas de cristal serpiente breve	1610			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion10	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
-1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC317	ref	seccion10	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618
+1660_apologetico	OC255	ref	seccion10	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	OC317	ref	seccion10	1660	Juan de Espinosa Medrano	La ciudad de Babilonia,	1618			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
@@ -696,7 +694,9 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC313	ref	seccion10	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617
+1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	OC313	ref	seccion10	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
@@ -704,7 +704,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Ezequiel, profeta	authority	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Homero	authority	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	San Mateo	authority	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC255	ref	seccion10	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612
+1660_apologetico	OC255	ref	seccion10	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
@@ -745,8 +745,8 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion11	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion11	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion11	1660	Juan de Espinosa Medrano					
-1660_apologetico	OC41	ref	seccion12	1660	Juan de Espinosa Medrano	La dulce boca que a gustar convida	1584
-1660_apologetico	OC264C	ref	seccion12	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614
+1660_apologetico	OC41	ref	seccion12	1660	Juan de Espinosa Medrano	La dulce boca que a gustar convida	1584			
+1660_apologetico	OC264C	ref	seccion12	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion12	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion12	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion12	1660	Juan de Espinosa Medrano					

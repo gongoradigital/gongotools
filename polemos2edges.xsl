@@ -214,6 +214,9 @@ Doit pouvoir fonctionner en import.
       <!-- PoemDate -->
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$ref/../../tei:cell[2]"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$tab"/>
       <xsl:value-of select="$lf"/>
     </xsl:if>
   </xsl:template>

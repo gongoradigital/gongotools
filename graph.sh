@@ -5,6 +5,7 @@ do
   FILENAME="${SRCFILE##*/}"
   NAME=${FILENAME%.*}
   DESTFILE=$DESTDIR"$NAME"
-  xsltproc -o "$DESTFILE"-nodes.csv polemos2nodes.xsl $SRCFILE
-  xsltproc -o "$DESTFILE"-edges.csv polemos2edges.xsl $SRCFILE
+  echo $NAME
+  xsltproc -o "$DESTFILE"-nodes.tsv polemos2nodes.xsl $SRCFILE
+  xsltproc -o "$DESTFILE"-edges.tsv polemos2edges.xsl $SRCFILE
 done
