@@ -111,20 +111,28 @@ Doit pouvoir fonctionner en import.
     <xsl:param name="date"/>
     <xsl:param name="id"/>
     <xsl:param name="Source"/>
-    <!-- file,section,date,Source,Target,type -->
-    <xsl:if test="$Source != ''">
-      <!-- Source -->
-      <xsl:value-of select="$file"/>
-      <!-- Target -->
-      <xsl:value-of select="$tab"/>
+    <xsl:variable name="target">
       <xsl:choose>
         <xsl:when test="@key">
           <xsl:value-of select="@key"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:value-of select="normalize-space(.)"/>
+          <xsl:variable name="txt">
+            <xsl:for-each select="text()">
+              <xsl:value-of select="."/>
+            </xsl:for-each>
+          </xsl:variable>         
+          <xsl:value-of select="normalize-space( $txt )"/>
         </xsl:otherwise>
       </xsl:choose>
+    </xsl:variable>   
+    <!-- file,section,date,Source,Target,type -->
+    <xsl:if test="$Source != '' and $target != ''">
+      <!-- Source -->
+      <xsl:value-of select="$file"/>
+      <!-- Target -->
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$target"/>
       <!-- mode -->
       <xsl:value-of select="$tab"/>
       <xsl:choose>
@@ -214,6 +222,9 @@ Doit pouvoir fonctionner en import.
       <!-- PoemDate -->
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$ref/../../tei:cell[2]"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="$tab"/>
       <xsl:value-of select="$lf"/>
     </xsl:if>
   </xsl:template>
