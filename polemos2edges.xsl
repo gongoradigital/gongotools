@@ -158,10 +158,10 @@ Doit pouvoir fonctionner en import.
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$tab"/>
       <xsl:choose>
-        <xsl:when test="@precision = 0"/>
-        <xsl:when test="@precision = 1">cité</xsl:when>
-        <xsl:when test="@precision = 2">mentionné</xsl:when>
-        <xsl:when test="@precision = 3">mentionné et cité</xsl:when>
+        <xsl:when test="@precision = 1">mentioned by another authority</xsl:when>
+        <xsl:when test="@precision = 2">mentioned and quoted by another authority</xsl:when>
+        <xsl:when test="@precision = 3">mentioned by the polemist</xsl:when>
+        <xsl:when test="@precision = 4">mentioned and quoted by the polemist</xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="@precision"/>
         </xsl:otherwise>
