@@ -6,12 +6,12 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1621_censura-lope	Luis de Góngora	polemista	introduccion	1621	Vega Carpio, Lope Félix de					
 1621_censura-lope	Lope	polemista	introduccion	1621	Vega Carpio, Lope Félix de					
 1621_censura-lope	Lope de Vega Carpio	polemista	introduccion	1621	Vega Carpio, Lope Félix de					
-1621_censura-lope	Horacio	authority	introduccion	1621	Vega Carpio, Lope Félix de					
-1621_censura-lope	Aristóteles	authority	introduccion	1621	Vega Carpio, Lope Félix de					
-1621_censura-lope	Aulo Gelio	authority	introduccion	1621	Vega Carpio, Lope Félix de					
-1621_censura-lope	Hermolao Barbaro	authority	introduccion	1621	Vega Carpio, Lope Félix de					
-1621_censura-lope	Aulo Gelio	authority	introduccion	1621	Vega Carpio, Lope Félix de					
-1621_censura-lope	Plutarco	authority	introduccion	1621	Vega Carpio, Lope Félix de					
+1621_censura-lope	Horacio	authority	introduccion	1621	Vega Carpio, Lope Félix de			4	quote	1
+1621_censura-lope	Aristóteles	authority	introduccion	1621	Vega Carpio, Lope Félix de			4	quote	1
+1621_censura-lope	Aulo Gelio	authority	introduccion	1621	Vega Carpio, Lope Félix de			4	quote	1
+1621_censura-lope	Barbaro, Hermolano	authority	introduccion	1621	Vega Carpio, Lope Félix de			4	quote	1
+1621_censura-lope	Aulo Gelio	authority	introduccion	1621	Vega Carpio, Lope Félix de			mentionné et cité		
+1621_censura-lope	Plutarco	authority	introduccion	1621	Vega Carpio, Lope Félix de			4	quote	1
 1621_censura-lope	Falereo	authority	introduccion	1621	Vega Carpio, Lope Félix de					
 1621_censura-lope	César	authority	introduccion	1621	Vega Carpio, Lope Félix de					
 1621_censura-lope	Cicerón	authority	introduccion	1621	Vega Carpio, Lope Félix de					

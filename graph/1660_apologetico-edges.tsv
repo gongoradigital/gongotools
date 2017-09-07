@@ -12,11 +12,11 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Teodoreto	authority	preliminar3	1661	Juan de Montalvo					
 1660_apologetico	San Jerónimo	authority	preliminar3	1661	Juan de Montalvo					
 1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar4	1661	Pedro de Villagómez					
-1660_apologetico	Luis de Góngora	polemista	preliminar5	1661	fray Fulgencio Maldonado					
-1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar5	1661	fray Fulgencio Maldonado					
-1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar5	1661	fray Fulgencio Maldonado					
-1660_apologetico	Manuel de Faría y Sousa	polemista	preliminar5	1661	fray Fulgencio Maldonado					
-1660_apologetico	Virgilio	authority	preliminar5	1661	fray Fulgencio Maldonado					
+1660_apologetico	Luis de Góngora	polemista	preliminar5	1661	frey Fulgencio Maldonado					
+1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar5	1661	frey Fulgencio Maldonado					
+1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar5	1661	frey Fulgencio Maldonado					
+1660_apologetico	Manuel de Faría y Sousa	polemista	preliminar5	1661	frey Fulgencio Maldonado					
+1660_apologetico	Virgilio	authority	preliminar5	1661	frey Fulgencio Maldonado					
 1660_apologetico	Juan de Espinosa Medrano	polemista	preliminar6	1660	Alonso Bravo de Paredes y Quiñones					
 1660_apologetico	Séneca	authority	preliminar6	1660	Alonso Bravo de Paredes y Quiñones					
 1660_apologetico	Claudiano	authority	preliminar6	1660	Alonso Bravo de Paredes y Quiñones					
@@ -69,23 +69,23 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	preliminar16	1661	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	preliminar16	1661	Juan de Espinosa Medrano					
 1660_apologetico	Alciato	authority	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	Gilberto Cognato	authority	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	Gilberto Cognato	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	Cognato, Gilberto	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	Cognato, Gilberto	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Melanctón	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Erasmo	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Vatablo	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Escalígero	authority	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	Laurencio Vala	authority	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	Luis Vives	authority	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	San Isidoro Hispalense	authority	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	García de Loayza	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	ValLa, Laurencio	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	Vives, Luis	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	San Isidoro	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	Loayza, García de 	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion1	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion1	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion1	1660	Juan de Espinosa Medrano					
@@ -103,7 +103,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Tibulo	authority	seccion1	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion2_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	Camoens	authority	seccion2_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion2_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion2_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	OC255	ref	seccion2_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
@@ -121,21 +121,21 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion2	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion2	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	apóstol Pablo	authority	seccion2	1660	Juan de Espinosa Medrano					
-1660_apologetico	San Isidoro Hispalense	authority	seccion2	1660	Juan de Espinosa Medrano					
+1660_apologetico	San Isidoro	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Quintiliano	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Horacio	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Escalígero	authority	seccion2	1660	Juan de Espinosa Medrano					
-1660_apologetico	Juan Luis de la Cerda	authority	seccion2	1660	Juan de Espinosa Medrano					
+1660_apologetico	Cerda, Juan Luis de la	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion2	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion2	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion2	1660	Juan de Espinosa Medrano					
-1660_apologetico	Merlín Cocayo	authority	seccion2	1660	Juan de Espinosa Medrano					
-1660_apologetico	Aquario Lodola	authority	seccion2	1660	Juan de Espinosa Medrano					
+1660_apologetico	Cocayo, Merlín	authority	seccion2	1660	Juan de Espinosa Medrano					
+1660_apologetico	Lodola, Aquario	authority	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion2	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion2	1660	Juan de Espinosa Medrano					
@@ -158,13 +158,13 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	OC255	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	OC264B	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	OC264C	ref	seccion3_Faria	1660	Manuel de Faría y Sousa	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1660_apologetico	Camoens	authority	seccion3_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion3_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC255	ref	seccion3	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1660_apologetico	Gerónimo Columna	authority	seccion3	1660	Juan de Espinosa Medrano					
+1660_apologetico	Columna, Gerónimo	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	Georgio Sabino	authority	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion3	1660	Juan de Espinosa Medrano					
+1660_apologetico	Sabino, Georgio	authority	seccion3	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC255	ref	seccion3	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
@@ -179,7 +179,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Tertuliano	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion3	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
@@ -198,7 +198,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	García de Salcedo Coronel	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion3	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion3	1660	Juan de Espinosa Medrano					
@@ -231,17 +231,17 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Ariosto	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Tasso	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Garcilaso	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	Camoens	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Cicerón	authority	seccion4_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion4_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	Fernando de Herrera	authority	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	San Isidoro Hispalense	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	Herrera, Fernando de	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	San Isidoro	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Garcilaso	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Servio	authority	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	San Isidoro Hispalense	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	San Isidoro	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
@@ -257,7 +257,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Marcial	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Pacuvio	authority	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	Alonso López Pinciano	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	Pinciano, Alonso López	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
@@ -303,14 +303,14 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC313	ref	seccion4	1660	Juan de Espinosa Medrano	Si arrebatado merecí algún día	1617			
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	Georgio Sabino	authority	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	Ambrosio de Morales	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	Sabino, Georgio	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	Morales, Ambrosio de	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	Ambrosio de Morales	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	Morales, Ambrosio de	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	Ambrosio de Morales	authority	seccion4	1660	Juan de Espinosa Medrano					
+1660_apologetico	Morales, Ambrosio de	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Homero	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Homero	authority	seccion4	1660	Juan de Espinosa Medrano					
@@ -323,7 +323,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Cicerón	authority	seccion4	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion4	1660	Juan de Espinosa Medrano					
-1660_apologetico	Juan de Mena	authority	seccion5_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Mena, Juan de	authority	seccion5_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion5_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Petrarca	authority	seccion5_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Boscán	authority	seccion5_Faria	1660	Manuel de Faría y Sousa					
@@ -332,17 +332,17 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion5_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Hortensio Félix Paravicino	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Paravicino, fray Hortensio Félix	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC264C	ref	seccion5	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1660_apologetico	Juan de Mena	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Mena, Juan de	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Juan de Mena	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Mena,Juan de	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Gómez Manrique	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
@@ -350,30 +350,30 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Pedro de Oña	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Oña, Pedro de	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Plinio el menor	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Juan de Mena	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Mena, Juan de	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Garcilaso	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Boscán	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Gómez Manrique	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Garcilaso	authority	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Luis Barahona de Soto	authority	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Gregorio Silvestre	authority	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Alonso López Pinciano	authority	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Alvar Gómez de Ciudad Real	authority	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Miguel de Cervantes	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Barahona de Soto, Luis	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Silvestre, Gregorio	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Pinciano, Alonso López	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Gómez de Ciudad Real, Alvar	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Cervantes, Miguel de	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Lucrecio	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Apuleyo	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Lucrecio	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Garcilaso	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Ambrosio de Morales	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Morales, Ambrosio de	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Homero	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion5	1660	Juan de Espinosa Medrano					
@@ -381,18 +381,18 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC255	ref	seccion5	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Marco Antonio Mureto	authority	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Marco Antonio Mureto	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Mureto, Marco Antonio	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Mureto, Marco Antonio	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Cicerón	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Marcial	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Aristóteles	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Marco Antonio Mureto	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Mureto, Marco Antonio	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	San Cipriano	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Erasmo	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Cornelio Tácito	authority	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Marco Antonio Mureto	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Mureto, Marco Antonio 	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Alciato	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
@@ -405,10 +405,10 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
@@ -416,13 +416,13 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC264B	ref	seccion5	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Homero	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
-1660_apologetico	Antonio de Nebrija	authority	seccion5	1660	Juan de Espinosa Medrano					
+1660_apologetico	Nebrija, Antonio de	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Cicerón	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Quintiliano	authority	seccion5	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion5	1660	Juan de Espinosa Medrano					
@@ -450,7 +450,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC264B	ref	seccion6	1660	Juan de Espinosa Medrano	Era del año la estación florida [Soledad Primera]	1613			
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Alonso López Pinciano	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	López Pinciano, Alonso	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
@@ -459,7 +459,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Alonso López Pinciano	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	López Pinciano, Alonso	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Aristóteles	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Aristóteles	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
@@ -479,9 +479,10 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC264C	ref	seccion6	1660	Juan de Espinosa Medrano	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1660_apologetico	OC255	ref	seccion6	1660	Juan de Espinosa Medrano	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1660_apologetico	Bartolomé Leonardo de Argensola	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Gracián	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Argensola, Bartolomé Leonardo de	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Gracián, Juan	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	OC149	ref	seccion6	1660	Juan de Espinosa Medrano	¿Qué lleva el señor Esgueva?	1603			
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
@@ -491,10 +492,10 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Turnebio	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Turnebe, Adrien	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Servio	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Turnebio	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Turnebe, Adrien	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Ascensio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
@@ -514,17 +515,17 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Tales	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Aristóteles	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Luis de Molina	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Molina, Luis de 	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Lucrecio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Lucano	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Apuleyo	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Filipo Beroaldo	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Beroaldo, Filipo	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Apuleyo	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Juan Luis de la Cerda	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Cerda, Juan Luis de la	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
@@ -545,7 +546,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Horacio	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Píndaro	authority	seccion6	1660	Juan de Espinosa Medrano					
@@ -554,7 +555,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Menandro	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Virgilio	authority	seccion6	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion6	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion6	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Mahoma	authority	seccion7_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion7_Faria	1660	Manuel de Faría y Sousa					
@@ -562,19 +563,21 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	OC463	ref	seccion7	1660	Juan de Espinosa Medrano	Patos de la aguachirle castellana,	ant. a 1622			
+1660_apologetico	OC463	ref	seccion7	1660	Juan de Espinosa Medrano	Patos de la aguachirle castellana,	ant. a 1622			
+1660_apologetico	OC463	ref	seccion7	1660	Juan de Espinosa Medrano	Patos de la aguachirle castellana,	ant. a 1622			
 1660_apologetico	García de Salcedo Coronel	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Macrobio	authority	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion7	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion7	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	García de Salcedo Coronel	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	García de Salcedo Coronel	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion7	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion7	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Tertuliano	authority	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion7	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion7	1660	Juan de Espinosa Medrano					
@@ -653,23 +656,23 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Salustio	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Petrarca	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Corte Real	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Corte-Real, Jerónimo de	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Valdivieso	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Boyardo	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Boiardo, Matteo Maria	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Montemayor	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Marino	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Tasso	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Lope de Vega	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Lope de Vega	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Montemayor, Jorge de	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Marino, Giambattista	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Tasso, Torquato	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Vega, Lope de	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Vega, Lope de	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Escalígero	authority	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Antonio Verderio	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Verderio, Antonio	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Pedro Aretino	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Lope de Vega	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Vega, Lope de	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
-1660_apologetico	Camoens	authority	seccion9	1660	Juan de Espinosa Medrano					
+1660_apologetico	Camões	authority	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion9	1660	Juan de Espinosa Medrano					
@@ -713,28 +716,28 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	Corte Real	authority	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	Corte-Real, Jerónimo	authority	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Valdivieso	authority	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	Boyardo	authority	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	Boiardo, Matteo Maria	authority	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	Montemayor	authority	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	Marino	authority	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	Tasso	authority	seccion10	1660	Juan de Espinosa Medrano					
-1660_apologetico	Lope de Vega	authority	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	Montemayor, Jorge de	authority	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	Marino, Giambattista	authority	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	Tasso, Torquato	authority	seccion10	1660	Juan de Espinosa Medrano					
+1660_apologetico	Vega, Lope de	authority	seccion10	1660	Juan de Espinosa Medrano					
 1660_apologetico	Luis de Góngora	polemista	seccion11_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	Camoens	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Vicuña	polemista	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Homero	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Virgilio	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	Camoens	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Marcial	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Estacio	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion11_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	Camoens	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Luis de Góngora	polemista	seccion11_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	Camoens	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
-1660_apologetico	Camoens	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
+1660_apologetico	Camões	authority	seccion11_Faria	1660	Manuel de Faría y Sousa					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion11	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion11	1660	Juan de Espinosa Medrano					
 1660_apologetico	Manuel de Faría y Sousa	polemista	seccion11	1660	Juan de Espinosa Medrano					

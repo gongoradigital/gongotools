@@ -1,96 +1,97 @@
 Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	quantity
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 1614_parecer	Propercio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Estacio Papinio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Lucano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Lucano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	San Pablo	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Epiménides cretense	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Plauto	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Juan Luis de la Cerda	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Agelio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Conrado Licóstenes	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Teócrito	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Policiano	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Estacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Lucano	authority		1614	Francisco Fernández de Córdoba			cité		
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Lucano	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba			4	quote	2
+1614_parecer	San Pablo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Epiménides cretense	authority		1614	Francisco Fernández de Córdoba			cité		
+1614_parecer	Plauto	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	de la Cerda, Juan Luis	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Aulo Gelio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Conrado Licóstenes	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Teócrito	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Policiano	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
-1614_parecer	Catulo	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Diomedes	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Torcuatto Tasso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Antonio Minturno	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Julio César Escalígero	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Francisco Luisio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Torcuato Tasso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Jerónimo Vida	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Tasso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Luciano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	san Jerónimo	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Terencio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Máximo Tirio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Simposio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Heráclito	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Plauto	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Persio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Tibulo	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Jerónimo Vida	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Eliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Tasso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Escalígero	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Torcuato	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Jerónimo Vida	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Fracastoro	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Teócrito	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Bión	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Calpurnio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Severo	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Petrarca	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Sannazaro	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Pontano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Marco Rosiglia	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Gerónimo Benivieni	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Bernardo Tasso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Luis Alemanni	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Garcilaso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Valerio Flaco	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Estacio Papinio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Escalígero	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Persio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Escalígero	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Pedro de Valencia,	persName		1614	Francisco Fernández de Córdoba					
-1614_parecer	Marcial	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Vida	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Tasso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Torcuato Tasso	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Catulo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Diómedes	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Minturno, Antonio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Escalígero, Julio César	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Luisio, Francisco	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité	quote	1
+1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Vida, Marco Girolamo	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba			4	quote	3
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			mentionné	quote	1
+1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba			cité		
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Luciano de Samosata	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	San Jerónimo	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Terencio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Máximo de Tiro	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Celio Firmiano Simposio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Heráclito	authority		1614	Francisco Fernández de Córdoba			cité		
+1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Plauto	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Persio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Plauto	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Vida, Marco Girolamo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Eliano	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Escalígero, Julio César	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Vida, Marco Girolamo	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Fracastoro, Girolamo	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Vida, Marco Girolamo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Bión de Esmirna	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Titus                   Calpurnius Siculus	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Severus Sanctus Endelechius	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Petrarca	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Sannazaro	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Pontano, Giovanni	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Rosiglia, Marco	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Benivieni, Girolamo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Tasso, Bernardo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Alemanni, Luigi	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Garcilaso de la Vega	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Gaius Valerius Flaccus	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Estacio Papinio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Escalígero, Julio César	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Persio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Escalígero, Julio César	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Pedro de Valencia	polemist		1614	Francisco Fernández de Córdoba					
+1614_parecer	Marcial	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Vida, Marco Girolamo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba			cité		
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
 1614_parecer	OC255	ref		1614	Francisco Fernández de Córdoba	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
@@ -99,8 +100,8 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
-1614_parecer	Teofrasto	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Plinio	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Teofrasto	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Plinio el Viejo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
@@ -114,34 +115,32 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1614_parecer	César Escalígero	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Bembo	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Pontano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Tibulo	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Diomedes	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Donato	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Escalígero, Julio César	authority		1614	Francisco Fernández de Córdoba			4	quote	2
+1614_parecer	Bembo, Pietro	authority		1614	Francisco Fernández de Córdoba			cité		
+1614_parecer	Pontano, Giovanni	authority		1614	Francisco Fernández de Córdoba			mentionné	quote	1
+1614_parecer	Tibulo	authority		1614	Francisco Fernández de Córdoba			mentionné	quote	1
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Diomedes	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Donato	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
-1614_parecer	Eurípides	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Eurípides	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
-1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Cornelio Tácito	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Diodoro Sículo	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba			4	quote	2
+1614_parecer	Tácito, Cornelio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Diodoro Sículo	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 1614_parecer	OC264A	ref		1614	Francisco Fernández de Córdoba	Pasos de un peregrino son, errante [Dedicatoria Soledades]	1613			
 1614_parecer	OC264A	ref		1614	Francisco Fernández de Córdoba	Pasos de un peregrino son, errante [Dedicatoria Soledades]	1613			
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
-1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Juan Andrea Gilio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Petrarca	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Juan Andrea Gilio	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Cicerón	authority		1614	Francisco Fernández de Córdoba			cité		
+1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Fabriano, Giovanni Andrea Gilio da	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			4	quote	3
+1614_parecer	Petrarca	authority		1614	Francisco Fernández de Córdoba			mentionné	quote	1
+1614_parecer	Fabriano, Giovanni Andrea Gilio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
 1614_parecer	OC264C	ref		1614	Francisco Fernández de Córdoba	Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
@@ -150,9 +149,10 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
 1614_parecer	OC264B	ref		1614	Francisco Fernández de Córdoba	Era del año la estación florida [Soledad Primera]	1613			
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Vida	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Escalígero	authority		1614	Francisco Fernández de Córdoba					
-1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba					
+1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Biblia	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
+1614_parecer	Vida, Marco Girolamo	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Escalígero, Julio César	authority		1614	Francisco Fernández de Córdoba			mentionné et cité		
+1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 

@@ -15,17 +15,17 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1636_compendio-poetico	Séneca	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Luis de Góngora	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	Quintiliano	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Tulio	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Francisco de Castro	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Cicerón	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Castro, Francisco de 	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Séneca	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Fabio	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Cipriano	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Suárez, Cipriano	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Lipsio	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Quintiliano	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Persio	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Marcial	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Príncipe de los Poetas	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Diego López	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Virgilio	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	López, Diego	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Marcial	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Lucano	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Plauto	authority		1636	Villar, Francisco del					
@@ -35,8 +35,8 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1636_compendio-poetico	OC264A	ref		1636	Villar, Francisco del	Pasos de un peregrino son, errante [Dedicatoria Soledades]	1613			
 1636_compendio-poetico	nuestro poeta	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	don Luis	polemista		1636	Villar, Francisco del					
-1636_compendio-poetico	Baltasar de Céspedes	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Martín de Roa	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Céspedes, Baltasar de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Roa, Martín de	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	OC76	ref		1636	Villar, Francisco del	Sacros, altos, dorados capiteles	1589			
 1636_compendio-poetico	OC357	ref		1636	Villar, Francisco del	Teatro espacïoso su ribera	1621			
 1636_compendio-poetico	OC330	ref		1636	Villar, Francisco del	Purpúreo creced, rayo luciente	1620			
@@ -69,18 +69,18 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1636_compendio-poetico	OC291	ref		1636	Villar, Francisco del	La vidrïera mejor	1615			
 1636_compendio-poetico	Luis de Góngora	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	don Luis	polemista		1636	Villar, Francisco del					
-1636_compendio-poetico	Diego López	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	El autor del	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	López, Diego	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Zwinger, Theodor	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Ennio	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Rodiginio	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Radero	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Ricchieri, Ludovico	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Rader, Matthäus	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Marcial	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Quintiliano	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Virgilio	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Juan Luis de la Cerda	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Cerda, Juan Luis de la	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Virgilio	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Maro	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Maro	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Virgilio	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Virgilio	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	nuestro poeta don Luis	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	Pedro Díaz de Rivas	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	Homero español	polemista		1636	Villar, Francisco del					
@@ -98,7 +98,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1636_compendio-poetico	un docto comentador	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	príncipe de los poetas líricos	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	tan grande poeta	polemista		1636	Villar, Francisco del					
-1636_compendio-poetico	Rodiginio	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Ricchieri, Ludovico	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Don Luis	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	Quintiliano	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Horacio	authority		1636	Villar, Francisco del					
@@ -160,39 +160,39 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1636_compendio-poetico	Homero	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Virgilio	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Plauto	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Francisco de Barreda	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Barreda, Francisco de	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Horacio	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Luis de Góngora	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	Terencio	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Plauto	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Luis de Góngora	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	el mayor poeta de España	polemista		1636	Villar, Francisco del					
-1636_compendio-poetico	Alonso de Ercilla	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Ercilla, Alonso de	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Cairasco	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Figueroa	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Luis de Camoens	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Hernando de Herrera	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	conde de Salinas	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Mira de Mescua	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Josef de Valdivielso	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Camões	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Herrera, Hernando de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Silva y Mendoza, Diego de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Mescua, Mira de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Valdivielso, José de	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Ledesma	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	conde de Villamediana	polemista		1636	Villar, Francisco del					
-1636_compendio-poetico	Pedro Calderón	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Alonso de Bonilla	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Lupercios	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Anastasio Pantaleón	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Villaizán	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Tasis y Peralta, Juan de	polemista		1636	Villar, Francisco del					
+1636_compendio-poetico	Calderón, Pedro	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Bonilla, Alonso de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Lupercio	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Pantaleón de Ribera, Anastacio	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Villaizán, Jerónimo de	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Pellicer	polemista		1636	Villar, Francisco del					
-1636_compendio-poetico	Salinas	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Antonio de Mendoza	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Juan de Mena	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Garcilaso de la Vega	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Francisco Sánchez el Brocense	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Hernando de Herrera	authority		1636	Villar, Francisco del					
-1636_compendio-poetico	Tomás Tamayo de Vargas	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Silva y Mendoza, Diego de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Mendoza, Antonio de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Mena, Juan de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Garcilaso	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Sánchez de las Brozas, Francisco	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Herrera, Hernando de	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Tamayo de Vargas, Tomás	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Luis de Góngora	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	Lope de Vega Carpio	polemista		1636	Villar, Francisco del					
-1636_compendio-poetico	Juan Pérez de Montalbán	authority		1636	Villar, Francisco del					
+1636_compendio-poetico	Pérez de Montalbán, Juan	authority		1636	Villar, Francisco del					
 1636_compendio-poetico	Lope de Vega	polemista		1636	Villar, Francisco del					
 1636_compendio-poetico	don Luis	polemista		1636	Villar, Francisco del					
 
