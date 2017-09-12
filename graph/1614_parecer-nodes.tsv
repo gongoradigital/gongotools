@@ -1,5 +1,5 @@
 Id	Label	type	date
-		text	
+1614_parecer	1614_parecer	text	1614
 Virgilio	Virgilio	authority	
 Propercio	Propercio	authority	
 Estacio	Estacio	authority	
@@ -21,7 +21,7 @@ Quintiliano	Quintiliano	authority
 Diómedes	Diómedes	authority	
 Tasso, Torcuato	Tasso, Torcuato	authority	
 Minturno, Antonio	Minturno, Antonio	authority	
-Escalígero, Julio César	Escalígero, Julio César	authority	
+Escalígero	Escalígero	authority	
 Luisio, Francisco	Luisio, Francisco	authority	
 Vida, Marco Girolamo	Vida, Marco Girolamo	authority	
 Luciano de Samosata	Luciano de Samosata	authority	
@@ -45,7 +45,6 @@ Tasso, Bernardo	Tasso, Bernardo	authority
 Alemanni, Luigi	Alemanni, Luigi	authority	
 Garcilaso de la Vega	Garcilaso de la Vega	authority	
 Gaius Valerius Flaccus	Gaius Valerius Flaccus	authority	
-Estacio Papinio	Estacio Papinio	authority	
 Pedro de Valencia	Pedro de Valencia	polemist	
 Marcial	Marcial	authority	
 Teofrasto	Teofrasto	authority	

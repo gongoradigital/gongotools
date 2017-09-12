@@ -1,5 +1,5 @@
 Id	Label	type	date
-		text	
+1621_censura-lope	1621_censura-lope	text	1621
 Lope de Vega Carpio	Lope de Vega Carpio	polemista	
 ese caballero	ese caballero	polemista	
 Luis de Góngora	Luis de Góngora	polemista	
@@ -10,56 +10,38 @@ Aristóteles	Aristóteles	authority
 Aulo Gelio	Aulo Gelio	authority	
 Barbaro, Hermolano	Barbaro, Hermolano	authority	
 Plutarco	Plutarco	authority	
-Falereo	Falereo	authority	
-César	César	authority	
+Demetrio Falereo	Demetrio Falereo	authority	
+Julio César	Julio César	authority	
 Cicerón	Cicerón	authority	
-Turnebo	Turnebo	authority	
-Adrien Turnèbe	Adrien Turnèbe	authority	
+Turnèbe, Adrien	Turnèbe, Adrien	authority	
 este caballero	este caballero	polemista	
-Cipriano	Cipriano	authority	
-Cipriano Suárez	Cipriano Suárez	authority	
-Fabio Quintiliano	Fabio Quintiliano	authority	
+Suárez, Cipriano	Suárez, Cipriano	authority	
 Quintiliano	Quintiliano	authority	
-Pico Mirandulano	Pico Mirandulano	authority	
+Pico della Mirandolla, Giovanni	Pico della Mirandolla, Giovanni	authority	
 Heráclito	Heráclito	authority	
-Giovanni Pico della Mirandola	Giovanni Pico della Mirandola	authority	
 Platón	Platón	authority	
 Mercurio Trimegisto	Mercurio Trimegisto	authority	
-Hermes Trismegisto	Hermes Trismegisto	authority	
-Mercurio Trismegisto	Mercurio Trismegisto	authority	
-Lipsio	Lipsio	authority	
+Lipsio, Justo	Lipsio, Justo	authority	
 san Agustín	san Agustín	authority	
 San Agustín	San Agustín	authority	
-Lucio	Lucio	authority	
 Lucilio	Lucilio	authority	
-Gelio	Gelio	authority	
 Aftonio	Aftonio	authority	
-Sánchez Brocense	Sánchez Brocense	authority	
-Aftonio de Antioquía	Aftonio de Antioquía	authority	
-Francisco Sánchez de las Brozas	Francisco Sánchez de las Brozas	authority	
+Sánchez de las Brozas, Francisco	Sánchez de las Brozas, Francisco	authority	
 Garcilaso	Garcilaso	authority	
-Bernardino Danielo	Bernardino Danielo	authority	
-Bernardino Daniello	Bernardino Daniello	authority	
-Juan de Mena	Juan de Mena	authority	
+Danielo, Bernardino	Danielo, Bernardino	authority	
+Mena, Juan de	Mena, Juan de	authority	
 Boscán	Boscán	authority	
-Hernando de Herrera	Hernando de Herrera	authority	
-Gregorio Hernández de Velasco	Gregorio Hernández de Velasco	authority	
-Patón	Patón	authority	
-Bartolomé Jiménez Patón	Bartolomé Jiménez Patón	authority	
-Agustino	Agustino	authority	
-doctor Garay	doctor Garay	authority	
-Francisco de Garay	Francisco de Garay	authority	
-Escala	Escala	authority	
-Crinito	Crinito	authority	
-Pietro Crinito	Pietro Crinito	authority	
-un insigne poeta de nuestros tiempos	un insigne poeta de nuestros tiempos	authority	
-José de Valdivielso	José de Valdivielso	authority	
-Herrera	Herrera	authority	
-Fernando de Herrera	Fernando de Herrera	authority	
-Bernardo de Alderete	Bernardo de Alderete	authority	
+Herrera, Fernando de	Herrera, Fernando de	authority	
+Hernández de Velasco, Gregorio	Hernández de Velasco, Gregorio	authority	
+Jiménez Patón, Bartolomé	Jiménez Patón, Bartolomé	authority	
+Garay, Francisco de	Garay, Francisco de	authority	
+Scala, Bartolomeo	Scala, Bartolomeo	authority	
+Crinito, Pietro	Crinito, Pietro	authority	
+Valdivielso, José de	Valdivielso, José de	authority	
+Alderete, Bernardo de	Alderete, Bernardo de	authority	
 Lope de Vega	Lope de Vega	polemista	
-Arias Montano	Arias Montano	authority	
-Lactancio Firmiano	Lactancio Firmiano	authority	
+Arias Montano, Benito	Arias Montano, Benito	authority	
+Firmiano, Lactancio	Firmiano, Lactancio	authority	
 san Bernardo	san Bernardo	authority	
 Teócrito	Teócrito	authority	
 OC310	Era la noche, en vez del manto obscuro	ref	1616
