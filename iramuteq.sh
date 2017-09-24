@@ -1,5 +1,5 @@
 mkdir -p export
-for SRCFILE in ../polemos/*_*.xml
+for SRCFILE in ../polemos/*.xml
 do
   FILENAME="${SRCFILE##*/}"
   NAME=${FILENAME%.*}
