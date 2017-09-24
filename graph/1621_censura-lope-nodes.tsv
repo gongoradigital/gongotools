@@ -1,10 +1,7 @@
 Id	Label	type	date
-1621_censura-lope	1621_censura-lope	text	1621
-Lope de Vega Carpio	Lope de Vega Carpio	polemista	
-ese caballero	ese caballero	polemista	
-Luis de Góngora	Luis de Góngora	polemista	
-su autor	su autor	polemista	
-Lope	Lope	polemista	
+		text	
+Góngora, Luis de	Góngora, Luis de	polemist	
+Vega, Lope de	Vega, Lope de	polemist	
 Horacio	Horacio	authority	
 Aristóteles	Aristóteles	authority	
 Aulo Gelio	Aulo Gelio	authority	
@@ -14,7 +11,6 @@ Demetrio Falereo	Demetrio Falereo	authority
 Julio César	Julio César	authority	
 Cicerón	Cicerón	authority	
 Turnèbe, Adrien	Turnèbe, Adrien	authority	
-este caballero	este caballero	polemista	
 Suárez, Cipriano	Suárez, Cipriano	authority	
 Quintiliano	Quintiliano	authority	
 Pico della Mirandolla, Giovanni	Pico della Mirandolla, Giovanni	authority	
@@ -39,7 +35,6 @@ Scala, Bartolomeo	Scala, Bartolomeo	authority
 Crinito, Pietro	Crinito, Pietro	authority	
 Valdivielso, José de	Valdivielso, José de	authority	
 Alderete, Bernardo de	Alderete, Bernardo de	authority	
-Lope de Vega	Lope de Vega	polemista	
 Arias Montano, Benito	Arias Montano, Benito	authority	
 Firmiano, Lactancio	Firmiano, Lactancio	authority	
 san Bernardo	san Bernardo	authority	

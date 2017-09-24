@@ -1,4 +1,4 @@
-Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	quantity
+Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	precision	unit	quantity
 1614_parecer	Virgilio	authority		1614	Francisco Fernández de Córdoba			4	quote	1
 1614_parecer	Propercio	authority		1614	Francisco Fernández de Córdoba					
 1614_parecer	Estacio	authority		1614	Francisco Fernández de Córdoba			4	quote	1

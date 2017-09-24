@@ -1,4 +1,4 @@
-Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	quantity
+Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	precision	unit	quantity
 1660_apologetico	Faria e Sousa, Manuel de	polemist	anteportada	1660	Espinosa Medrano, Juan de					
 1660_apologetico	Espinosa Medrano, Juan de	polemist	anteportada	1660	Espinosa Medrano, Juan de					
 1660_apologetico	Faria e Sousa, Manuel de	polemist	portada	1660	Espinosa Medrano, Juan de					
@@ -582,9 +582,9 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 1660_apologetico	Faria e Sousa, Manuel de	polemist	seccion7	1660	Espinosa Medrano, Juan de					
 1660_apologetico	Góngora, Luis de	polemist	seccion8_Faría	1660	Faria e Sousa, Manuel de					
 1660_apologetico	Faria e Sousa, Manuel de	polemist	seccion8	1660	Espinosa Medrano, Juan de					
-1660_apologetico	Pellicer de Ossau y Tovar, José	polemist	seccion8	1660	Espinosa Medrano, Juan de					
+1660_apologetico	Pellicer, José	polemist	seccion8	1660	Espinosa Medrano, Juan de					
 1660_apologetico	OC264B	ref	seccion8	1660	Espinosa Medrano, Juan de	Era del año la estación florida [Soledad Primera]	1613			
-1660_apologetico	Pellicer de Ossau y Tovar, José	polemist	seccion8	1660	Espinosa Medrano, Juan de					
+1660_apologetico	Pellicer, José	polemist	seccion8	1660	Espinosa Medrano, Juan de					
 1660_apologetico	Salcedo Coronel, García de 	polemist	seccion8	1660	Espinosa Medrano, Juan de					
 1660_apologetico	Faria e Sousa, Manuel de	polemist	seccion8	1660	Espinosa Medrano, Juan de					
 1660_apologetico	OC26	ref	seccion8	1660	Espinosa Medrano, Juan de	Que se nos va la pascua, mozas	1582			
