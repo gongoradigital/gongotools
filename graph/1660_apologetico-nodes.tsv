@@ -1,9 +1,9 @@
 Id	Label	type	date
 1660_apologetico	1660_apologetico	text	1660
-Manuel de Faría y Sousa	Manuel de Faría y Sousa	polemista	
-Juan de Espinosa Medrano	Juan de Espinosa Medrano	polemista	
+Faria e Sousa, Manuel de	Faria e Sousa, Manuel de	polemist	
+Espinosa Medrano, Juan de	Espinosa Medrano, Juan de	polemist	
 Gregorio Nacianceno	Gregorio Nacianceno	authority	
-Luis de Góngora	Luis de Góngora	polemista	
+Góngora, Luis de	Góngora, Luis de	polemist	
 san Basilio	san Basilio	authority	
 Teodoreto	Teodoreto	authority	
 san Jerónimo	san Jerónimo	authority	
@@ -12,7 +12,7 @@ Séneca	Séneca	authority
 Claudiano	Claudiano	authority	
 Marcial	Marcial	authority	
 santo Tomás	santo Tomás	authority	
-García de Salcedo Coronel	García de Salcedo Coronel	polemista	
+Salcedo Coronel, García de	Salcedo Coronel, García de	polemist	
 Alciato	Alciato	authority	
 Cognato, Gilberto	Cognato, Gilberto	authority	
 Melanctón	Melanctón	authority	
@@ -37,7 +37,7 @@ Horacio	Horacio	authority
 Cerda, Juan Luis de la	Cerda, Juan Luis de la	authority	
 Cocayo, Merlín	Cocayo, Merlín	authority	
 Lodola, Aquario	Lodola, Aquario	authority	
-Pedro de Bustamante y Torreblanca	Pedro de Bustamante y Torreblanca	polemista	
+Bustamante y Torreblanca, Pedro de	Bustamante y Torreblanca, Pedro de	polemist	
 Columna, Gerónimo	Columna, Gerónimo	authority	
 Sabino, Georgio	Sabino, Georgio	authority	
 Tertuliano	Tertuliano	authority	
@@ -55,7 +55,7 @@ Ovidio	Ovidio	authority
 Pacuvio	Pacuvio	authority	
 Pinciano, Alonso López	Pinciano, Alonso López	authority	
 Lucrecio	Lucrecio	authority	
-Francisco del Villar	Francisco del Villar	polemista	
+Villar, Francisco del	Villar, Francisco del	polemist	
 Morales, Ambrosio de	Morales, Ambrosio de	authority	
 Homero	Homero	authority	
 Mena, Juan de	Mena, Juan de	authority	
@@ -63,7 +63,7 @@ Boscán	Boscán	authority
 Gómez Manrique	Gómez Manrique	authority	
 Paravicino, fray Hortensio Félix	Paravicino, fray Hortensio Félix	authority	
 Mena,Juan de	Mena,Juan de	authority	
-Oña, Pedro de	Oña, Pedro de	authority	
+Oña, Pedro de	Oña, Pedro de	polemist	
 Plinio el menor	Plinio el menor	authority	
 Barahona de Soto, Luis	Barahona de Soto, Luis	authority	
 Silvestre, Gregorio	Silvestre, Gregorio	authority	
@@ -78,7 +78,6 @@ Nebrija, Antonio de	Nebrija, Antonio de	authority
 Macrobio	Macrobio	authority	
 Ariphades	Ariphades	authority	
 López Pinciano, Alonso	López Pinciano, Alonso	authority	
-los comentadores de	los comentadores de	polemista	
 Argensola, Bartolomé Leonardo de	Argensola, Bartolomé Leonardo de	authority	
 Gracián, Juan	Gracián, Juan	authority	
 Turnebe, Adrien	Turnebe, Adrien	authority	
@@ -93,7 +92,7 @@ Píndaro	Píndaro	authority
 Plauto	Plauto	authority	
 Menandro	Menandro	authority	
 Mahoma	Mahoma	authority	
-José Pellicer de Ossau y Tovar	José Pellicer de Ossau y Tovar	polemista	
+Pellicer de Ossau y Tovar, José	Pellicer de Ossau y Tovar, José	polemist	
 Donato	Donato	authority	
 Ronsard	Ronsard	authority	
 Teócrito	Teócrito	authority	
@@ -110,10 +109,10 @@ Pedro Aretino	Pedro Aretino	authority
 Ezequiel, profeta	Ezequiel, profeta	authority	
 san Mateo	san Mateo	authority	
 Corte-Real, Jerónimo	Corte-Real, Jerónimo	authority	
-Vicuña	Vicuña	polemista	
+Vicuña	Vicuña	polemist	
 Estacio	Estacio	authority	
-Nicolás de Albiz	Nicolás de Albiz	polemista	
-Cristóbal de Salazar Mardones	Cristóbal de Salazar Mardones	polemista	
+Albiz, Nicolás de	Albiz, Nicolás de	polemist	
+Salazar Mardones, Cristóbal de	Salazar Mardones, Cristóbal de	polemist	
 OC255	Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	ref	1612
 OC264C	Éntrase el mar por un arroyo breve [Soledad Segunda]	ref	1614
 OC264A	Pasos de un peregrino son, errante [Dedicatoria Soledades]	ref	1613

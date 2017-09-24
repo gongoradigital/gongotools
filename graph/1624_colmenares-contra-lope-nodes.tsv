@@ -1,7 +1,7 @@
 Id	Label	type	date
 1624_colmenares-contra-lope	1624_colmenares-contra-lope	text	1624
 Heródoto	Heródoto	authority	
-Luis de Góngora	Luis de Góngora	polemista	
+Góngora, Luis de	Góngora, Luis de	polemist	
 Cicerón	Cicerón	authority	
 Pico della Mirandola, Giovanni	Pico della Mirandola, Giovanni	authority	
 Aulo Gelio	Aulo Gelio	authority	
@@ -10,12 +10,12 @@ Arias Montano, Benito	Arias Montano, Benito	authority
 Horacio	Horacio	authority	
 san Agustín	san Agustín	authority	
 Aristóteles	Aristóteles	authority	
-Alejandro Pacio	Alejandro Pacio	authority	
+de’ Pazzi, Alessandro	de’ Pazzi, Alessandro	authority	
 Sánchez de las Brozas, Francisco	Sánchez de las Brozas, Francisco	authority	
 Virgilio	Virgilio	authority	
 Despautère, Jean	Despautère, Jean	authority	
 Beda el Venerable	Beda el Venerable	authority	
-Lope de Vega	Lope de Vega	polemista	
+Vega, Lope de	Vega, Lope de	polemist	
 Luciano	Luciano	authority	
 Plinio	Plinio	authority	
 san Isidoro	san Isidoro	authority	
@@ -37,16 +37,15 @@ Apuleyo	Apuleyo	authority
 Sannazaro	Sannazaro	authority	
 Sammartino, Matteo di	Sammartino, Matteo di	authority	
 Gregoire, Pierre	Gregoire, Pierre	authority	
-Francisco de Quevedo	Francisco de Quevedo	polemista	
+Quevedo, Francisco de	Quevedo, Francisco de	polemist	
 Suárez, Cipriano	Suárez, Cipriano	authority	
 Talon, Omer	Talon, Omer	authority	
 Magno Tirio	Magno Tirio	authority	
 Carbone da Costacciaro, Lodovico	Carbone da Costacciaro, Lodovico	authority	
 Plutarco	Plutarco	authority	
-el dueño de este discurso	el dueño de este discurso	polemista	
-Diego de Colmenares	Diego de Colmenares	polemista	
+Colmenares, Diego de	Colmenares, Diego de	polemist	
 Macrobio	Macrobio	authority	
-el dueño	el dueño	polemista	
+Góngora, Lope de	Góngora, Lope de	polemist	
 Nebrija, Antonio de	Nebrija, Antonio de	authority	
 Catulo	Catulo	authority	
 Escalígero	Escalígero	authority	
@@ -71,6 +70,7 @@ Vida, Girolamo	Vida, Girolamo	authority
 Hesíodo	Hesíodo	authority	
 Papinio	Papinio	authority	
 Vitruvio	Vitruvio	authority	
+Lope de Vega	Lope de Vega	polemist	
 Galand, Pierre	Galand, Pierre	authority	
 Tertuliano	Tertuliano	authority	
 Florido, Francisco	Florido, Francisco	authority	

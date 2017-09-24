@@ -1,7 +1,5 @@
 Id	Label	type	date
 		text	
-algún autor enojado.	algún autor enojado.	polemista	
-algunos discursos que he visto contra la demasía moderna	algunos discursos que he visto contra la demasía moderna	polemista	
 Horacio	Horacio	authority	
 Quintiliano	Quintiliano	authority	
 Aulo Gelio	Aulo Gelio	authority	
@@ -30,7 +28,7 @@ Juvencio Celso	Juvencio Celso	authority
 Demetrio	Demetrio	authority	
 Vida, Girolamo	Vida, Girolamo	authority	
 Tasso, Torquato	Tasso, Torquato	authority	
-algún autor enojado	algún autor enojado	polemista	
+Vega, Lope de	Vega, Lope de	polemist	
 Garcilaso	Garcilaso	authority	
 Safo	Safo	authority	
 Nigidio	Nigidio	authority	
@@ -38,8 +36,7 @@ Varrón	Varrón	authority
 Ramírez de Prado, Lorenzo	Ramírez de Prado, Lorenzo	authority	
 Corina	Corina	authority	
 Ennio	Ennio	authority	
-Homero,	Homero,	authority	
-Lope de Vega	Lope de Vega	polemista	
+Homeroi	Homeroi	authority	
 Plinio	Plinio	authority	
 Luciano	Luciano	authority	
 Escalígero	Escalígero	authority	
@@ -52,7 +49,7 @@ Peregrino filósofo	Peregrino filósofo	Aulo Gelio
 Boccaccio	Boccaccio	authority	
 Tito Livio	Tito Livio	authority	
 San Agustín	San Agustín	authority	
-Arato de Solos	Arato de Solos	authority	
+Arato	Arato	authority	
 Santo Tomás	Santo Tomás	authority	
 Florencia, Jerónimo de	Florencia, Jerónimo de	authority	
 OC264B	Era del año la estación florida [Soledad Primera]	ref	1613

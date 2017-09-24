@@ -1,7 +1,7 @@
 Id	Label	type	date
 1636_compendio-poetico	1636_compendio-poetico	text	1636
-Francisco del Villar	Francisco del Villar	polemista	
-Luis de Góngora	Luis de Góngora	polemista	
+Villar, Francisco del	Villar, Francisco del	polemist	
+Góngora, Luis de	Góngora, Luis de	polemist	
 Homero	Homero	authority	
 Virgilio	Virgilio	authority	
 Horacio	Horacio	authority	
@@ -20,36 +20,27 @@ Castro, Francisco de	Castro, Francisco de	authority
 Suárez, Cipriano	Suárez, Cipriano	authority	
 Lipsio, Justo	Lipsio, Justo	authority	
 López, Diego	López, Diego	authority	
-nuestro poeta	nuestro poeta	polemista	
-don Luis	don Luis	polemista	
 Céspedes, Baltasar de	Céspedes, Baltasar de	authority	
 Roa, Martín de	Roa, Martín de	authority	
-Francisco de Quevedo	Francisco de Quevedo	polemista	
+Quevedo, Francisco de	Quevedo, Francisco de	polemist	
 Anacreonte	Anacreonte	authority	
-Anacreonte español	Anacreonte español	polemista	
 Zwinger, Theodor	Zwinger, Theodor	authority	
 Ennio	Ennio	authority	
 Rodiginio, Celio	Rodiginio, Celio	authority	
 Rader, Matthäus	Rader, Matthäus	authority	
 Cerda, Juan Luis de la	Cerda, Juan Luis de la	authority	
-nuestro poeta don Luis	nuestro poeta don Luis	polemista	
-Pedro Díaz de Rivas	Pedro Díaz de Rivas	polemista	
-Homero español	Homero español	polemista	
-un docto comentador	un docto comentador	polemista	
-príncipe de los poetas líricos	príncipe de los poetas líricos	polemista	
-tan grande poeta	tan grande poeta	polemista	
-Don Luis	Don Luis	polemista	
-Francisco Cascales	Francisco Cascales	polemista	
-Cascales	Cascales	polemista	
+Díaz de Rivas, Pedro	Díaz de Rivas, Pedro	polemist	
+Pellicer, José	Pellicer, José	polemist	
+Cascales, Francisco de	Cascales, Francisco de	polemist	
 Plinio	Plinio	authority	
+Luis de Góngora	Luis de Góngora	polemist	
+don Luis	don Luis	polemist	
 Furio	Furio	authority	
 Propercio	Propercio	authority	
 Ovidio	Ovidio	authority	
 Sannazaro	Sannazaro	authority	
 Aristóteles	Aristóteles	authority	
-el príncipe de las nuestras	el príncipe de las nuestras	polemista	
 Barreda, Francisco de	Barreda, Francisco de	authority	
-el mayor poeta de España	el mayor poeta de España	polemista	
 Ercilla, Alonso de	Ercilla, Alonso de	authority	
 Cairasco de Figueroa, Bartolomé	Cairasco de Figueroa, Bartolomé	authority	
 Figueroa	Figueroa	authority	
@@ -72,9 +63,8 @@ Mena, Juan de	Mena, Juan de	authority
 Garcilaso	Garcilaso	authority	
 Sánchez de las Brozas, Francisco	Sánchez de las Brozas, Francisco	authority	
 Tamayo de Vargas, Tomás	Tamayo de Vargas, Tomás	authority	
-Lope de Vega Carpio	Lope de Vega Carpio	polemista	
+Vega, Lope de	Vega, Lope de	polemist	
 Pérez de Montalbán, Juan	Pérez de Montalbán, Juan	authority	
-Lope de Vega	Lope de Vega	polemista	
 OC317	La ciudad de Babilonia,	ref	1618
 OC264A	Pasos de un peregrino son, errante [Dedicatoria Soledades]	ref	1613
 OC76	Sacros, altos, dorados capiteles	ref	1589

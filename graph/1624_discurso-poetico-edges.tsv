@@ -32,7 +32,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 	Julio César	authority		1624	Jáuregui, Juan de					
 	Salustio	authority		1624	Jáuregui, Juan de					
 	Julio César	authority		1624	Jáuregui, Juan de					
-	Aulo Gelio 	authority		1624	Jáuregui, Juan de			mentionné et cité		
+	Aulo Gelio	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Tuberón	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Juvencio Celso	authority		1624	Jáuregui, Juan de					
 	Virgilio	authority		1624	Jáuregui, Juan de			mentionné et cité		
@@ -51,7 +51,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 	Tasso, Torquato	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Cicerón	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Cicerón	authority		1624	Jáuregui, Juan de					
-	algún autor enojado	polemista		1624	Jáuregui, Juan de					
+	Vega, Lope de	polemist		1624	Jáuregui, Juan de					
 	Garcilaso	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Cicerón	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	OC233	ref		1624	Jáuregui, Juan de	Este, que Babia al mundo hoy ha ofrecido	1611			
@@ -81,9 +81,9 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 	Ennio	authority		1624	Jáuregui, Juan de					
 	Cicerón	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Virgilio	authority		1624	Jáuregui, Juan de					
-	Homero,	authority		1624	Jáuregui, Juan de			mentionné et cité		
+	Homeroi	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Petronio	authority		1624	Jáuregui, Juan de			mentionné et cité		
-	Lope de Vega	polemista		1624	Jáuregui, Juan de					
+	Vega, Lope de	polemist		1624	Jáuregui, Juan de					
 	OC463	ref		1624	Jáuregui, Juan de	Patos de la aguachirle castellana,	ant. a 1622			
 	Horacio	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Ovidio	authority		1624	Jáuregui, Juan de			mentionné et cité		
@@ -129,7 +129,7 @@ Source	Target	mode	section	date	labelSource	PoemTitle	PoemDate	precision	unit	qu
 	Escalígero	authority		1624	Jáuregui, Juan de					
 	Lucrecio	authority		1624	Jáuregui, Juan de					
 	Manilio, Marco	authority		1624	Jáuregui, Juan de			mentionné et cité		
-	Arato de Solos	authority		1624	Jáuregui, Juan de					
+	Arato	authority		1624	Jáuregui, Juan de					
 	Santo Tomás	authority		1624	Jáuregui, Juan de					
 	Aulo Gelio	authority		1624	Jáuregui, Juan de			mentionné et cité		
 	Vida, Girolamo	authority		1624	Jáuregui, Juan de			mentionné et cité		
