@@ -9,5 +9,6 @@ echo Gongora, transformation : naked
 for /r %%F in (%SRCDIR%*.xml) do (
   set FILENAME=%%~nF
   echo %DESTDIR%%%~nF.xml
+  %HERE%xsltproc\xsltproc -o %DESTDIR%%%~nF.xml %HERE%tei2naked.xsl %%F
 )
 PAUSE
