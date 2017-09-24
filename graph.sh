@@ -1,6 +1,6 @@
 DESTDIR=graph/
 mkdir -p $DESTDIR
-for SRCFILE in ../polemos/*_*.xml
+for SRCFILE in ../polemos/*.xml
 do
   FILENAME="${SRCFILE##*/}"
   NAME=${FILENAME%.*}

@@ -154,6 +154,9 @@ Doit pouvoir fonctionner en import.
       <!-- Source -->
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$Source"/>
+      <!-- labelSource -->
+      <xsl:value-of select="$tab"/>
+      <xsl:value-of select="normalize-space(.)"/>
       <!-- PoemTitle -->
       <xsl:value-of select="$tab"/>
       <!-- PoemDate -->
@@ -217,6 +220,8 @@ Doit pouvoir fonctionner en import.
       <!-- Source -->
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$Source"/>
+      <!-- labelTarget -->
+      <xsl:value-of select="$tab"/>
       <!-- PoemTitle -->
       <xsl:value-of select="$tab"/>
       <xsl:variable name="ref" select="$poetica//tei:ref[@target=concat('#', $poem)]"/>

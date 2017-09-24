@@ -1,62 +1,62 @@
 Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	precision	unit	quantity
-	Plinio	authority		1631	Quevedo, Francisco de			4		
-	san Jerónimo	authority		1631	Quevedo, Francisco de			4		
-	Aristóteles	authority		1631	Quevedo, Francisco de			4		
-	Aristóteles	authority		1631	Quevedo, Francisco de			4		
-	Aristóteles	authority		1631	Quevedo, Francisco de			4		
-	Herrera, Fernando de	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Aristóteles	authority		1631	Quevedo, Francisco de			mentionné		
-	Demetrio Falereo	authority		1631	Quevedo, Francisco de			4		
-	Demetrio Falereo	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Aristóteles	authority		1631	Quevedo, Francisco de			cité		
-	Erasmo	authority		1631	Quevedo, Francisco de			4		
-	Augusto	authority		1631	Quevedo, Francisco de			cité		
-	san             Jerónimo	authority		1631	Quevedo, Francisco de			4		
-	Andreini de Pistoia, Francisco	authority		1631	Quevedo, Francisco de			4		
-	Macial	authority		1631	Quevedo, Francisco de			4		
-	Estacio	authority		1631	Quevedo, Francisco de			4		
-	Horacio	authority		1631	Quevedo, Francisco de			4		
-	Espinel, Vicente	authority		1631	Quevedo, Francisco de			4		
-	Demetrio Falereo	authority		1631	Quevedo, Francisco de			4		
-	Demetrio Falereo	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Aristóteles	authority		1631	Quevedo, Francisco de			cité		
-	Propercio	authority		1631	Quevedo, Francisco de			4		
-	Petronio	authority		1631	Quevedo, Francisco de			4		
-	Petronio	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Antífanes	authority		1631	Quevedo, Francisco de			4		
-	Aristófanes	authority		1631	Quevedo, Francisco de			4		
-	Petronio	authority		1631	Quevedo, Francisco de			4		
-	Epicteto	authority		1631	Quevedo, Francisco de			4		
-	Rittershausen, Konrad	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Quintiliano	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Virgilio	authority		1631	Quevedo, Francisco de			cité		
-	Virgilio	authority		1631	Quevedo, Francisco de			4		
-	Quintiliano	authority		1631	Quevedo, Francisco de			4		
-	Quintiliano	authority		1631	Quevedo, Francisco de			4		
-	Horacio	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Boscán	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Garcilaso	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Figueroa, Francisco de	authority		1631	Quevedo, Francisco de			4		
-	Aldana, Francisco de	authority		1631	Quevedo, Francisco de			4		
-	Barahona de Soto, Luis	authority		1631	Quevedo, Francisco de			4		
-	Ercilla, Alonso de	authority		1631	Quevedo, Francisco de			4		
-	Píndaro	authority		1631	Quevedo, Francisco de			4		
-	Horacio	authority		1631	Quevedo, Francisco de			4		
-	Píndaro	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Horacio	authority		1631	Quevedo, Francisco de			4		
-	Aldana, Francisco de	authority		1631	Quevedo, Francisco de			4		
-	León, fray Luis de	authority		1631	Quevedo, Francisco de			4		
-	Horacio	authority		1631	Quevedo, Francisco de			cité		
-	Villena, Enrique de	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Quintiliano	authority		1631	Quevedo, Francisco de			4		
-	OC264B	ref		1631	Quevedo, Francisco de	Era del año la estación florida [Soledad Primera]	1613			
-	OC8	ref		1631	Quevedo, Francisco de	Da bienes Fortuna	1581			
-	OC264B	ref		1631	Quevedo, Francisco de	Era del año la estación florida [Soledad Primera]	1613			
-	Lulio, Antonio	authority		1631	Quevedo, Francisco de			4		
-	Virgilio	authority		1631	Quevedo, Francisco de			4		
-	Horacio	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Píndaro	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Virgilio	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Petrarca	authority		1631	Quevedo, Francisco de			mentionné et cité		
-	Casa, Giovanni della	authority		1631	Quevedo, Francisco de			mentionné et cité		
+1631_obras-quevedo	Plinio	authority		1631	Quevedo, Francisco de	Plinio			4		
+1631_obras-quevedo	san Jerónimo	authority		1631	Quevedo, Francisco de	san Jerónimo			4		
+1631_obras-quevedo	Aristóteles	authority		1631	Quevedo, Francisco de	Aristóteles			4		
+1631_obras-quevedo	Aristóteles	authority		1631	Quevedo, Francisco de	Aristóteles			4		
+1631_obras-quevedo	Aristóteles	authority		1631	Quevedo, Francisco de	Aristóteles			4		
+1631_obras-quevedo	Herrera, Fernando de	authority		1631	Quevedo, Francisco de	Fernando de Herrera			mentionné et cité		
+1631_obras-quevedo	Aristóteles	authority		1631	Quevedo, Francisco de	Aristóteles			mentionné		
+1631_obras-quevedo	Demetrio Falereo	authority		1631	Quevedo, Francisco de	Demetrio Falereo			4		
+1631_obras-quevedo	Demetrio Falereo	authority		1631	Quevedo, Francisco de	Demetrio			mentionné et cité		
+1631_obras-quevedo	Aristóteles	authority		1631	Quevedo, Francisco de	Filósofo			cité		
+1631_obras-quevedo	Erasmo	authority		1631	Quevedo, Francisco de	Erasmo			4		
+1631_obras-quevedo	Augusto	authority		1631	Quevedo, Francisco de	Augusto			cité		
+1631_obras-quevedo	san             Jerónimo	authority		1631	Quevedo, Francisco de	san Jerónimo			4		
+1631_obras-quevedo	Andreini de Pistoia, Francisco	authority		1631	Quevedo, Francisco de	Francisco Andreini de Pistoia			4		
+1631_obras-quevedo	Macial	authority		1631	Quevedo, Francisco de	Marcial			4		
+1631_obras-quevedo	Estacio	authority		1631	Quevedo, Francisco de	Estacio Estacio: Publius Papinius Statius (h. 45 d. C.-96 d. C.), poeta romano de la Edad de Plata, nacido en Nápoles; autor de numerosas obras poéticas, entre ellas, el poema épico Thebaida, y de una colección de 32 composiciones ecfrásticas, circunstanciales y de homenaje al emperador, Domiciano, y a varios amigos, las Silvae, que fueron muy apreciadas por los escritores humanistas desde el Renacimiento, entre ellos, Quevedo, quien compuso varios poemas en su imitación: la silva «El sueño», por ejemplo (véanse Schwartz-Crosby (1986) y Schwartz (2003)). González de Salas, que estuvo a cargo de la edición póstuma de la poesía de Quevedo, lo publicó con el epígrafe «idilio». Contamos con pruebas fehacientes del interés de Quevedo por el autor de las Silvae a partir del año 2000, cuando Hilaire y Craig Kallendorf descubrieron en la biblioteca de Princeton la edición que le perteneció y que contenía anotaciones autógrafas y pasajes subrayados que lo confirman (véase Kallendorf 2000). El padre de Estacio, de origen griego, nacido en Campania, fue profesor de literatura romana y griega en Nápoles; así lo describió su hijo en la silva III del libro V, Epicedion in patrem suum, en el que lo elogia por sus conocimientos y señala que fueron dos las patrias que se disputaban el honor de su nacimiento: Grecia y Nápoles. Véase Estacio (1961: t. II, p. 192-204), «Epicedion in patrem suum», ‘Canto fúnebre en honor de su padre’.			4		
+1631_obras-quevedo	Horacio	authority		1631	Quevedo, Francisco de	Horacio			4		
+1631_obras-quevedo	Espinel, Vicente	authority		1631	Quevedo, Francisco de	Vicente Espinel			4		
+1631_obras-quevedo	Demetrio Falereo	authority		1631	Quevedo, Francisco de	Falereo			4		
+1631_obras-quevedo	Demetrio Falereo	authority		1631	Quevedo, Francisco de	Falereo			mentionné et cité		
+1631_obras-quevedo	Aristóteles	authority		1631	Quevedo, Francisco de	Aristóteles Quevedo refiere a lo señalado en una nota anterior acerca de la sustitución de la laguna en el texto de Demetrio con palabras de la Retórica de Aristóteles.			cité		
+1631_obras-quevedo	Propercio	authority		1631	Quevedo, Francisco de	Propercio			4		
+1631_obras-quevedo	Petronio	authority		1631	Quevedo, Francisco de	Petronio Árbitro			4		
+1631_obras-quevedo	Petronio	authority		1631	Quevedo, Francisco de	Petronio			mentionné et cité		
+1631_obras-quevedo	Antífanes	authority		1631	Quevedo, Francisco de	Antífanes			4		
+1631_obras-quevedo	Aristófanes	authority		1631	Quevedo, Francisco de	Aristófanes			4		
+1631_obras-quevedo	Petronio	authority		1631	Quevedo, Francisco de	Petronio			4		
+1631_obras-quevedo	Epicteto	authority		1631	Quevedo, Francisco de	Epicteto			4		
+1631_obras-quevedo	Rittershausen, Konrad	authority		1631	Quevedo, Francisco de	Ritershusio			mentionné et cité		
+1631_obras-quevedo	Quintiliano	authority		1631	Quevedo, Francisco de	Quintiliano			mentionné et cité		
+1631_obras-quevedo	Virgilio	authority		1631	Quevedo, Francisco de	Virgilio			cité		
+1631_obras-quevedo	Virgilio	authority		1631	Quevedo, Francisco de	Virgilio			4		
+1631_obras-quevedo	Quintiliano	authority		1631	Quevedo, Francisco de	Fabio			4		
+1631_obras-quevedo	Quintiliano	authority		1631	Quevedo, Francisco de	Quintiliano			4		
+1631_obras-quevedo	Horacio	authority		1631	Quevedo, Francisco de	Horacio			mentionné et cité		
+1631_obras-quevedo	Boscán	authority		1631	Quevedo, Francisco de	Boscán			mentionné et cité		
+1631_obras-quevedo	Garcilaso	authority		1631	Quevedo, Francisco de	Garcilaso			mentionné et cité		
+1631_obras-quevedo	Figueroa, Francisco de	authority		1631	Quevedo, Francisco de	Francisco de Figueroa			4		
+1631_obras-quevedo	Aldana, Francisco de	authority		1631	Quevedo, Francisco de	Francisco de Aldana			4		
+1631_obras-quevedo	Barahona de Soto, Luis	authority		1631	Quevedo, Francisco de	Soto Barahona			4		
+1631_obras-quevedo	Ercilla, Alonso de	authority		1631	Quevedo, Francisco de	Alonso de Ercilla			4		
+1631_obras-quevedo	Píndaro	authority		1631	Quevedo, Francisco de	Pindarus			4		
+1631_obras-quevedo	Horacio	authority		1631	Quevedo, Francisco de	Horacio			4		
+1631_obras-quevedo	Píndaro	authority		1631	Quevedo, Francisco de	Píndaro			mentionné et cité		
+1631_obras-quevedo	Horacio	authority		1631	Quevedo, Francisco de	Horacio			4		
+1631_obras-quevedo	Aldana, Francisco de	authority		1631	Quevedo, Francisco de	Francisco de Aldana			4		
+1631_obras-quevedo	León, fray Luis de	authority		1631	Quevedo, Francisco de	fray Luis de León			4		
+1631_obras-quevedo	Horacio	authority		1631	Quevedo, Francisco de	Horacio			cité		
+1631_obras-quevedo	Villena, Enrique de	authority		1631	Quevedo, Francisco de	Enrique de Villena			mentionné et cité		
+1631_obras-quevedo	Quintiliano	authority		1631	Quevedo, Francisco de	Quintiliano			4		
+1631_obras-quevedo	OC264B	ref		1631	Quevedo, Francisco de		Era del año la estación florida [Soledad Primera]	1613			
+1631_obras-quevedo	OC8	ref		1631	Quevedo, Francisco de		Da bienes Fortuna	1581			
+1631_obras-quevedo	OC264B	ref		1631	Quevedo, Francisco de		Era del año la estación florida [Soledad Primera]	1613			
+1631_obras-quevedo	Lulio, Antonio	authority		1631	Quevedo, Francisco de	Antonio Lulio			4		
+1631_obras-quevedo	Virgilio	authority		1631	Quevedo, Francisco de	Virgilio			4		
+1631_obras-quevedo	Horacio	authority		1631	Quevedo, Francisco de	Horacio			mentionné et cité		
+1631_obras-quevedo	Píndaro	authority		1631	Quevedo, Francisco de	Píndaro			mentionné et cité		
+1631_obras-quevedo	Virgilio	authority		1631	Quevedo, Francisco de	Virgilio			mentionné et cité		
+1631_obras-quevedo	Petrarca	authority		1631	Quevedo, Francisco de	Petrarca			mentionné et cité		
+1631_obras-quevedo	Casa, Giovanni della	authority		1631	Quevedo, Francisco de	Monseñor de la Casa			mentionné et cité		
 
