@@ -91,6 +91,8 @@ Doit pouvoir fonctionner en import.
       <xsl:value-of select="$tab"/>
       <xsl:text>labelSource</xsl:text>
       <xsl:value-of select="$tab"/>
+      <xsl:text>labelTarget</xsl:text>
+      <xsl:value-of select="$tab"/>
       <xsl:text>PoemTitle</xsl:text>
       <xsl:value-of select="$tab"/>
       <xsl:text>PoemDate</xsl:text>
