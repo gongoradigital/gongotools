@@ -59,7 +59,6 @@ Texte nu, par exemple pièce de théâtre sans didascalies, ou critique sans cit
     | tei:label
     | tei:listBibl
     | tei:note
-    | tei:person
     | tei:place
     | tei:quote
     | tei:ref[not(node())] 
