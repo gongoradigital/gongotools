@@ -163,10 +163,10 @@ Doit pouvoir fonctionner en import.
       <xsl:value-of select="$tab"/>
       <xsl:value-of select="$tab"/>
       <xsl:choose>
-        <xsl:when test="@precision = 0"/>
-        <xsl:when test="@precision = 1">cité</xsl:when>
-        <xsl:when test="@precision = 2">mentionné</xsl:when>
-        <xsl:when test="@precision = 3">mentionné et cité</xsl:when>
+        <xsl:when test="@precision = 1">mentionné de seconde main</xsl:when>
+        <xsl:when test="@precision = 2">cité de seconde main</xsl:when>
+        <xsl:when test="@precision = 3">mentionné</xsl:when>
+        <xsl:when test="@precision = 4">cité</xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="@precision"/>
         </xsl:otherwise>
