@@ -1,31 +1,31 @@
 Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	precision	unit	quantity
-1624_nochesclaras	Biblia	authority		1624	Sousa, Manuel de Faria e	Job					
-1624_nochesclaras	Aulo Gelio	authority		1624	Sousa, Manuel de Faria e	Aulo Gelio					
-1624_nochesclaras	Eurípides	authority		1624	Sousa, Manuel de Faria e	Eurípides					
-1624_nochesclaras	Séneca	authority		1624	Sousa, Manuel de Faria e	Séneca					
-1624_nochesclaras	Pío Segundo	authority		1624	Sousa, Manuel de Faria e	Pío Segundo					
-1624_nochesclaras	Cicerón	authority		1624	Sousa, Manuel de Faria e	Cicerón					
-1624_nochesclaras	Julius Paulus Prudentissimus	authority		1624	Sousa, Manuel de Faria e	Jurisconsulto Paulo					
-1624_nochesclaras	Apocalipsis	authority		1624	Sousa, Manuel de Faria e	Apocalipsis					
-1624_nochesclaras	Génesis	authority		1624	Sousa, Manuel de Faria e	Génesis					
-1624_nochesclaras	Botelho de Carvalho, Miguel	authority		1624	Sousa, Manuel de Faria e	la tragedia de Píramo y Tisbe					
-1624_nochesclaras	Horacio	authority		1624	Sousa, Manuel de Faria e	Horacio					
-1624_nochesclaras	Trebelio	authority		1624	Sousa, Manuel de Faria e	Trebelio					
-1624_nochesclaras	Plauto	authority		1624	Sousa, Manuel de Faria e	Plauto					
-1624_nochesclaras	Homero	authority		1624	Sousa, Manuel de Faria e	Homero					
-1624_nochesclaras	Timón el Filasio	authority		1624	Sousa, Manuel de Faria e	Timón Filasio					
-1624_nochesclaras	Suidas	authority		1624	Sousa, Manuel de Faria e	Suidas					
-1624_nochesclaras	Plutarco	authority		1624	Sousa, Manuel de Faria e	Plutarco					
-1624_nochesclaras	Pausanias	authority		1624	Sousa, Manuel de Faria e	Pausanias					
-1624_nochesclaras	Alejandro Napolitano	authority		1624	Sousa, Manuel de Faria e	Alejandro Napolitano					
-1624_nochesclaras	Apocalipsis	authority		1624	Sousa, Manuel de Faria e	Apocalipsis					
-1624_nochesclaras	Aristóteles	authority		1624	Sousa, Manuel de Faria e	Aristóteles					
-1624_nochesclaras	Horacio	authority		1624	Sousa, Manuel de Faria e	Horacio					
-1624_nochesclaras	Marcial	authority		1624	Sousa, Manuel de Faria e	Marcial					
-1624_nochesclaras	Marcial	authority		1624	Sousa, Manuel de Faria e	Marcial					
-1624_nochesclaras	Platón	authority		1624	Sousa, Manuel de Faria e	Platón					
-1624_nochesclaras	Heráclito	authority		1624	Sousa, Manuel de Faria e	Heráclito					
-1624_nochesclaras	Heráclito	authority		1624	Sousa, Manuel de Faria e	Filósofo de Efeso					
-1624_nochesclaras	Marcial	authority		1624	Sousa, Manuel de Faria e	Marcial					
-1624_nochesclaras	Aristóteles	authority		1624	Sousa, Manuel de Faria e	Aristóteles					
+1624_nochesclaras	Job	authority		1624	Sousa, Manuel de Faria e	Job			cité	quote	1
+1624_nochesclaras	Aulo Gelio	authority		1624	Sousa, Manuel de Faria e	Aulo Gelio			mentionné		
+1624_nochesclaras	Eurípides	authority		1624	Sousa, Manuel de Faria e	Eurípides			mentionné		
+1624_nochesclaras	Séneca	authority		1624	Sousa, Manuel de Faria e	Séneca			mentionné		
+1624_nochesclaras	Pío Segundo	authority		1624	Sousa, Manuel de Faria e	Pío Segundo			mentionné		
+1624_nochesclaras	Cicerón	authority		1624	Sousa, Manuel de Faria e	Cicerón			cité	quote	1
+1624_nochesclaras	Julius Paulus Prudentissimus	authority		1624	Sousa, Manuel de Faria e	Jurisconsulto Paulo			cité	quote	1
+1624_nochesclaras	san Juan	authority		1624	Sousa, Manuel de Faria e	Apocalipsis			cité	quote	1
+1624_nochesclaras	Génesis	authority		1624	Sousa, Manuel de Faria e	Génesis			cité	quote	1
+1624_nochesclaras	Botelho de Carvalho, Miguel	polemist		1624	Sousa, Manuel de Faria e	un amigo que escribió la tragedia de Píramo y Tisbe					
+1624_nochesclaras	Horacio	authority		1624	Sousa, Manuel de Faria e	Horacio			mentionné		
+1624_nochesclaras	Trebelio	authority		1624	Sousa, Manuel de Faria e	Trebelio			mentionné		
+1624_nochesclaras	Plauto	authority		1624	Sousa, Manuel de Faria e	Plauto			mentionné		
+1624_nochesclaras	Homero	authority		1624	Sousa, Manuel de Faria e	Homero			mentionné		
+1624_nochesclaras	Timón el Filasio	authority		1624	Sousa, Manuel de Faria e	Timón Filasio			mentionné		
+1624_nochesclaras	Suidas	authority		1624	Sousa, Manuel de Faria e	Suidas			mentionné		
+1624_nochesclaras	Plutarco	authority		1624	Sousa, Manuel de Faria e	Plutarco			mentionné		
+1624_nochesclaras	Pausanias	authority		1624	Sousa, Manuel de Faria e	Pausanias			mentionné		
+1624_nochesclaras	Alejandro Napolitano	authority		1624	Sousa, Manuel de Faria e	Alejandro Napolitano			mentionné		
+1624_nochesclaras	Apocalipsis	authority		1624	Sousa, Manuel de Faria e	Apocalipsis			cité	quote	1
+1624_nochesclaras	Aristóteles	authority		1624	Sousa, Manuel de Faria e	Aristóteles			mentionné		
+1624_nochesclaras	Horacio	authority		1624	Sousa, Manuel de Faria e	Horacio			mentionné		
+1624_nochesclaras	Marcial	authority		1624	Sousa, Manuel de Faria e	Marcial			cité	quote	2
+1624_nochesclaras	Marcial	authority		1624	Sousa, Manuel de Faria e	Marcial			mentionné		
+1624_nochesclaras	Platón	authority		1624	Sousa, Manuel de Faria e	Platón			mentionné		
+1624_nochesclaras	Heráclito	authority		1624	Sousa, Manuel de Faria e	Heráclito			mentionné		
+1624_nochesclaras	Heráclito	authority		1624	Sousa, Manuel de Faria e	Filósofo de Efeso			mentionné		
+1624_nochesclaras	Marcial	authority		1624	Sousa, Manuel de Faria e	Marcial			cité	quote	2
+1624_nochesclaras	Aristóteles	authority		1624	Sousa, Manuel de Faria e	Aristóteles			mentionné		
 

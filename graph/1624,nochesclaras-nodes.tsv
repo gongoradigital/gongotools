@@ -1,15 +1,15 @@
 Id	Label	type	date
 1624_nochesclaras	1624_nochesclaras	text	1624
-Biblia	Biblia	authority	
+Job	Job	authority	
 Aulo Gelio	Aulo Gelio	authority	
 Eurípides	Eurípides	authority	
 Séneca	Séneca	authority	
 Pío Segundo	Pío Segundo	authority	
 Cicerón	Cicerón	authority	
 Julius Paulus Prudentissimus	Julius Paulus Prudentissimus	authority	
-Apocalipsis	Apocalipsis	authority	
+san Juan	san Juan	authority	
 Génesis	Génesis	authority	
-Botelho de Carvalho, Miguel	Botelho de Carvalho, Miguel	authority	
+Botelho de Carvalho, Miguel	Botelho de Carvalho, Miguel	polemist	
 Horacio	Horacio	authority	
 Trebelio	Trebelio	authority	
 Plauto	Plauto	authority	
@@ -19,6 +19,7 @@ Suidas	Suidas	authority
 Plutarco	Plutarco	authority	
 Pausanias	Pausanias	authority	
 Alejandro Napolitano	Alejandro Napolitano	authority	
+Apocalipsis	Apocalipsis	authority	
 Aristóteles	Aristóteles	authority	
 Marcial	Marcial	authority	
 Platón	Platón	authority	
