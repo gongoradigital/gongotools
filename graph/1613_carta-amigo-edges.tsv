@@ -1,25 +1,25 @@
 Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	precision	unit	quantity
-1613_carta-amigo	Aristóteles	authority		1613	un amigo de don Luis de Góngora	el Filósofo			0		
-1613_carta-amigo	Virgilio	authority		1613	un amigo de don Luis de Góngora	el poeta latino			cité	citations	3
+1613_carta-amigo	Aristóteles	authority		1613	un amigo de don Luis de Góngora	el Filósofo			mentionné		
+1613_carta-amigo	Virgilio	authority		1613	un amigo de don Luis de Góngora	el poeta latino			cité	quote	3
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
-1613_carta-amigo	Aristóteles	authority		1613	un amigo de don Luis de Góngora	el Filósofo			0		
-1613_carta-amigo	Homero	authority		1613	un amigo de don Luis de Góngora	Homero			0		
-1613_carta-amigo	Virgilio	authority		1613	un amigo de don Luis de Góngora	Virgilio			0		
-1613_carta-amigo	Lucano	authority		1613	un amigo de don Luis de Góngora	Lucano			0		
-1613_carta-amigo	Virgilio	authority		1613	un amigo de don Luis de Góngora	Virgilio			cité	citations	5
+1613_carta-amigo	Aristóteles	authority		1613	un amigo de don Luis de Góngora	el Filósofo			mentionné		
+1613_carta-amigo	Homero	authority		1613	un amigo de don Luis de Góngora	Homero			mentionné		
+1613_carta-amigo	Virgilio	authority		1613	un amigo de don Luis de Góngora	Virgilio			mentionné		
+1613_carta-amigo	Lucano	authority		1613	un amigo de don Luis de Góngora	Lucano			mentionné		
+1613_carta-amigo	Virgilio	authority		1613	un amigo de don Luis de Góngora	Virgilio			cité	quote	5
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
-1613_carta-amigo	Marcial	authority		1613	un amigo de don Luis de Góngora	Marcial,			0		
+1613_carta-amigo	Marcial	authority		1613	un amigo de don Luis de Góngora	Marcial,			mentionné		
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
-1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	Horacio			mentionné de seconde main	citations	2
+1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	Horacio			cité	quote	2
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
 1613_carta-amigo	OC265	ref		1613	un amigo de don Luis de Góngora		Si ociosa no, asistió naturaleza	1613			
-1613_carta-amigo	Quintiliano	authority		1613	un amigo de don Luis de Góngora	Quintiliano			mentionné de seconde main	citations	1
-1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	Horacio			0		
-1613_carta-amigo	Escalígero	authority		1613	un amigo de don Luis de Góngora	Escalígero			0		
-1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	Horacio			mentionné de seconde main	citations	1
-1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	poeta			mentionné de seconde main	citations	1
+1613_carta-amigo	Quintiliano	authority		1613	un amigo de don Luis de Góngora	Quintiliano			cité	quote	1
+1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	Horacio			mentionné		
+1613_carta-amigo	Escalígero	authority		1613	un amigo de don Luis de Góngora	Escalígero			mentionné		
+1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	Horacio			cité	quote	1
+1613_carta-amigo	Horacio	authority		1613	un amigo de don Luis de Góngora	poeta			cité	quote	1
 1613_carta-amigo	OC264B	ref		1613	un amigo de don Luis de Góngora		Era del año la estación florida [Soledad Primera]	1613			
 
