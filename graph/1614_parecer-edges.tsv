@@ -6,7 +6,7 @@ Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	preci
 1614_parecer	Horacio	authority		1614	Francisco Fernández de Córdoba	Horacio			mentionné		
 1614_parecer	Lucano	authority		1614	Francisco Fernández de Córdoba				cité	quote	1
 1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba				cité	quote	2
-1614_parecer	San Pablo	authority		1614	Francisco Fernández de Córdoba	San Pablo			mentionné		
+1614_parecer	San Pablo	authority		1614	Francisco Fernández de Córdoba	San Pablo			cité	quote	2
 1614_parecer	Epiménides cretense	authority		1614	Francisco Fernández de Córdoba	Epiménides cretense			mentionné de seconde main		
 1614_parecer	Plauto	authority		1614	Francisco Fernández de Córdoba				cité	quote	1
 1614_parecer	Ovidio	authority		1614	Francisco Fernández de Córdoba				cité	quote	1
@@ -21,7 +21,7 @@ Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	preci
 1614_parecer	Catulo	authority		1614	Francisco Fernández de Córdoba	Catulo			mentionné		
 1614_parecer	Aristóteles	authority		1614	Francisco Fernández de Córdoba	Aristóteles			cité	quote	1
 1614_parecer	Quintiliano	authority		1614	Francisco Fernández de Córdoba	Quintiliano			cité	quote	1
-1614_parecer	Diómedes	authority		1614	Francisco Fernández de Córdoba	Diomedes			cité	quote	1
+1614_parecer	Diomedes	authority		1614	Francisco Fernández de Córdoba	Diomedes			cité	quote	1
 1614_parecer	Tasso, Torcuato	authority		1614	Francisco Fernández de Córdoba				cité	quote	1
 1614_parecer	Minturno, Antonio	authority		1614	Francisco Fernández de Córdoba	Antonio Minturno			cité	quote	1
 1614_parecer	Escalígero	authority		1614	Francisco Fernández de Córdoba	Julio César Escalígero			cité	quote	1
@@ -77,7 +77,7 @@ Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	preci
 1614_parecer	Benivieni, Girolamo	authority		1614	Francisco Fernández de Córdoba	Gerónimo Benivieni			mentionné		
 1614_parecer	Tasso, Bernardo	authority		1614	Francisco Fernández de Córdoba	Bernardo Tasso			mentionné		
 1614_parecer	Alemanni, Luigi	authority		1614	Francisco Fernández de Córdoba	Luis Alemanni			mentionné		
-1614_parecer	Garcilaso de la Vega	authority		1614	Francisco Fernández de Córdoba	Garcilaso			mentionné		
+1614_parecer	Garcilaso	authority		1614	Francisco Fernández de Córdoba	Garcilaso			mentionné		
 1614_parecer	Gaius Valerius Flaccus	authority		1614	Francisco Fernández de Córdoba	Valerio Flaco			mentionné		
 1614_parecer	Estacio	authority		1614	Francisco Fernández de Córdoba	Estacio Papinio			mentionné		
 1614_parecer	Escalígero	authority		1614	Francisco Fernández de Córdoba	Escalígero			cité	quote	1
