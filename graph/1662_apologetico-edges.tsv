@@ -1,9 +1,6 @@
 Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	precision	unit	quantity
 1662_apologetico	Faria e Sousa, Manuel de	polemist	anteportada	1660	Espinosa Medrano, Juan de	Manuel de Faría y Sousa					
 1662_apologetico	Espinosa Medrano, Juan de	polemist	anteportada	1660	Espinosa Medrano, Juan de	Juan de Espinosa Medrano					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	portada	1660	Espinosa Medrano, Juan de	Manuel de Faría y Sousa					
-1662_apologetico	Espinosa Medrano, Juan de	polemist	portada	1660	Espinosa Medrano, Juan de	Juan de Espinosa Medrano					
-1662_apologetico	Gregorio Nacianceno	authority	portada	1660	Espinosa Medrano, Juan de	Gregorio Nacianceno			cité	quote	1
 1662_apologetico	Espinosa Medrano, Juan de	polemist	preliminar1	1661	fray Gonzalo Tenorio	Juan de Espinosa Medrano					
 1662_apologetico	Góngora, Luis de	polemist	preliminar1	1661	fray Gonzalo Tenorio	Luis de Góngora					
 1662_apologetico	Góngora, Luis de	polemist	preliminar3	1661	Juan de Montalvo	príncipe de líricos don Luis de Góngora					
@@ -68,691 +65,85 @@ Source	Target	mode	section	date	labelSource	labelTarget	PoemTitle	PoemDate	preci
 1662_apologetico	Góngora, Luis de	polemist	preliminar16	1661	Espinosa Medrano, Juan de	Luis de Góngora					
 1662_apologetico	Faria e Sousa, Manuel de	polemist	preliminar16	1661	Espinosa Medrano, Juan de	Manuel de Faría					
 1662_apologetico	Góngora, Luis de	polemist	preliminar16	1661	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Alciato	authority	seccion1	1660	Espinosa Medrano, Juan de	Alciato					
-1662_apologetico	Cognato, Gilberto	authority	seccion1	1660	Espinosa Medrano, Juan de	Gilberto Cognato					
-1662_apologetico	Cognato, Gilberto	authority	seccion1	1660	Espinosa Medrano, Juan de	Gilberto					
-1662_apologetico	Melanctón	authority	seccion1	1660	Espinosa Medrano, Juan de	Melanctón					
-1662_apologetico	Erasmo	authority	seccion1	1660	Espinosa Medrano, Juan de	Erasmo					
-1662_apologetico	Vatablo	authority	seccion1	1660	Espinosa Medrano, Juan de	Vatablo					
-1662_apologetico	Escalígero	authority	seccion1	1660	Espinosa Medrano, Juan de	Escalígero					
-1662_apologetico	ValLa, Laurencio	authority	seccion1	1660	Espinosa Medrano, Juan de	Laurencio ValLa					
-1662_apologetico	Vives, Luis	authority	seccion1	1660	Espinosa Medrano, Juan de	Luis Vives					
-1662_apologetico	san Isidoro	authority	seccion1	1660	Espinosa Medrano, Juan de	San Isidoro					
-1662_apologetico	Loayza, García de 	authority	seccion1	1660	Espinosa Medrano, Juan de	García de Loayza					
-1662_apologetico	Góngora, Luis de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Luis de Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Manuel de Faría y Sousa					
-1662_apologetico	Camões	authority	seccion1	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Góngora, Luis de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion1	1660	Espinosa Medrano, Juan de	este fidalgo					
-1662_apologetico	Góngora, Luis de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Camões	authority	seccion1	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Góngora, Luis de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Luis de Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Manuel de Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	san Jerónimo	authority	seccion1	1660	Espinosa Medrano, Juan de	San Jerónimo					
-1662_apologetico	Cicerón	authority	seccion1	1660	Espinosa Medrano, Juan de	Tulio					
-1662_apologetico	Aristóteles	authority	seccion1	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Platón	authority	seccion1	1660	Espinosa Medrano, Juan de	Platón					
-1662_apologetico	Aristarco	authority	seccion1	1660	Espinosa Medrano, Juan de	Aristarco					
-1662_apologetico	Calcentero	authority	seccion1	1660	Espinosa Medrano, Juan de	Calcentero					
-1662_apologetico	Dídimo el ciego	authority	seccion1	1660	Espinosa Medrano, Juan de	Dídimo					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion1	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion1	1660	Espinosa Medrano, Juan de	el mayor poeta de nuestros siglos					
-1662_apologetico	Tibulo	authority	seccion1	1660	Espinosa Medrano, Juan de	Tibulo					
-1662_apologetico	Góngora, Luis de	polemist	seccion2_Faría	1660	Faria e Sousa, Manuel de	Luis de Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion2_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Camões	authority	seccion2_Faría	1660	Faria e Sousa, Manuel de	nuestro poeta					
-1662_apologetico	Góngora, Luis de	polemist	seccion2_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	OC255	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC264B	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion2_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	este sicofanta					
-1662_apologetico	Góngora, Luis de	polemist	seccion2	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Góngora, Luis de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Manuel Faría					
-1662_apologetico	Camões	authority	seccion2	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	apóstol Pablo	authority	seccion2	1660	Espinosa Medrano, Juan de	Apóstol					
-1662_apologetico	san Isidoro	authority	seccion2	1660	Espinosa Medrano, Juan de	Isidoro					
-1662_apologetico	Virgilio	authority	seccion2	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Quintiliano	authority	seccion2	1660	Espinosa Medrano, Juan de	Quintiliano					
-1662_apologetico	Horacio	authority	seccion2	1660	Espinosa Medrano, Juan de	Horacio					
-1662_apologetico	Escalígero	authority	seccion2	1660	Espinosa Medrano, Juan de	Escalígero					
-1662_apologetico	Cerda, Juan Luis de la	authority	seccion2	1660	Espinosa Medrano, Juan de	Cerda					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion2	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Cocayo, Merlín	authority	seccion2	1660	Espinosa Medrano, Juan de	Merlín Cocayo					
-1662_apologetico	Lodola, Aquario	authority	seccion2	1660	Espinosa Medrano, Juan de	Aquario Lodola					
-1662_apologetico	Góngora, Luis de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion2	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Bustamante y Torreblanca, Pedro de	polemist	seccion2	1660	Espinosa Medrano, Juan de	don Pedro de Bustamante y Torreblanca					
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion2	1660	Espinosa Medrano, Juan de	Salcedo Coronel					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	este fidalgo					
-1662_apologetico	san Jerónimo	authority	seccion2	1660	Espinosa Medrano, Juan de	San Jerónimo					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion2	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion2	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Virgilio	authority	seccion2	1660	Espinosa Medrano, Juan de	gran poeta					
-1662_apologetico	OC255	ref	seccion2	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion2	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion2	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC264B	ref	seccion2	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC255	ref	seccion3_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Góngora, Luis de	polemist	seccion3_Faría	1660	Faria e Sousa, Manuel de	el poeta					
-1662_apologetico	OC264B	ref	seccion3_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC255	ref	seccion3_Faría	1660	Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC264B	ref	seccion3_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264C	ref	seccion3_Faría	1660	Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	Camões	authority	seccion3_Faría	1660	Faria e Sousa, Manuel de	mi poeta					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC255	ref	seccion3	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Columna, Gerónimo	authority	seccion3	1660	Espinosa Medrano, Juan de	Gerónimo Columna					
-1662_apologetico	Virgilio	authority	seccion3	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Sabino, Georgio	authority	seccion3	1660	Espinosa Medrano, Juan de	Georgio Sabino					
-1662_apologetico	Camões	authority	seccion3	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC255	ref	seccion3	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Virgilio	authority	seccion3	1660	Espinosa Medrano, Juan de	el gran poeta					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Virgilio	authority	seccion3	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Virgilio	authority	seccion3	1660	Espinosa Medrano, Juan de	el Marón					
-1662_apologetico	OC264B	ref	seccion3	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Platón	authority	seccion3	1660	Espinosa Medrano, Juan de	Platón					
-1662_apologetico	Platón	authority	seccion3	1660	Espinosa Medrano, Juan de	Platón					
-1662_apologetico	Tertuliano	authority	seccion3	1660	Espinosa Medrano, Juan de	Tertuliano					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion3	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	un pobrete					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	el buen Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	divino cordobés					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	nuestro poeta					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC264C	ref	seccion3	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	Virgilio	authority	seccion3	1660	Espinosa Medrano, Juan de	gran poeta					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Mastige					
-1662_apologetico	OC317	ref	seccion3	1660	Espinosa Medrano, Juan de		La ciudad de Babilonia,	1618			
-1662_apologetico	OC317	ref	seccion3	1660	Espinosa Medrano, Juan de		La ciudad de Babilonia,	1618			
-1662_apologetico	OC317	ref	seccion3	1660	Espinosa Medrano, Juan de		La ciudad de Babilonia,	1618			
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion3	1660	Espinosa Medrano, Juan de	docto Coronel					
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion3	1660	Espinosa Medrano, Juan de	Salcedo Coronel					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Camões	authority	seccion3	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	OC154	ref	seccion3	1660	Espinosa Medrano, Juan de		Del león, que en la Silva apenas cabe	1604			
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion3	1660	Espinosa Medrano, Juan de	Salcedo Coronel					
-1662_apologetico	Hadriano Junio	authority	seccion3	1660	Espinosa Medrano, Juan de	Hadriano Junio					
-1662_apologetico	Tertuliano	authority	seccion3	1660	Espinosa Medrano, Juan de	Tertuliano					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion3	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC264B	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264B	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264C	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC264C	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC264C	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC264C	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4_Faría	1660	Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
-1662_apologetico	Góngora, Luis de	polemist	seccion4_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Dante	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Dante					
-1662_apologetico	Petrarca	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Petrarca					
-1662_apologetico	sannazaro	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Sannazaro					
-1662_apologetico	Ariosto	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Ariosto					
-1662_apologetico	Tasso	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Tasso					
-1662_apologetico	Garcilaso	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Garcilaso					
-1662_apologetico	Camões	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Camões					
-1662_apologetico	Cicerón	authority	seccion4_Faría	1660	Faria e Sousa, Manuel de	Cicerón					
-1662_apologetico	Góngora, Luis de	polemist	seccion4_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Herrera, Fernando de	authority	seccion4	1660	Espinosa Medrano, Juan de	divino Herrera					
-1662_apologetico	san Isidoro	authority	seccion4	1660	Espinosa Medrano, Juan de	San Isidoro Hispalense					
-1662_apologetico	Garcilaso	authority	seccion4	1660	Espinosa Medrano, Juan de	Garcilaso					
-1662_apologetico	Servio	authority	seccion4	1660	Espinosa Medrano, Juan de	Servio					
-1662_apologetico	san Isidoro	authority	seccion4	1660	Espinosa Medrano, Juan de	San Isidoro					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	gran Poeta					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio, gigante mayor de la Poesía					
-1662_apologetico	Varrón	authority	seccion4	1660	Espinosa Medrano, Juan de	Varrón					
-1662_apologetico	Ovidio	authority	seccion4	1660	Espinosa Medrano, Juan de	Ovidio					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	al gran poeta					
-1662_apologetico	Pacuvio	authority	seccion4	1660	Espinosa Medrano, Juan de	Pacuvio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	OC31	ref	seccion4	1660	Espinosa Medrano, Juan de		Verdes hermanas del audaz mozuelo	1583			
-1662_apologetico	OC319	ref	seccion4	1660	Espinosa Medrano, Juan de		Esta de flores, cuando no divina,	1619			
-1662_apologetico	OC287	ref	seccion4	1660	Espinosa Medrano, Juan de		No entre las flores, no, señor don Diego,	1615			
-1662_apologetico	Marcial	authority	seccion4	1660	Espinosa Medrano, Juan de	Marcial					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Pacuvio	authority	seccion4	1660	Espinosa Medrano, Juan de	Pacuvio					
-1662_apologetico	Pinciano, Alonso López	authority	seccion4	1660	Espinosa Medrano, Juan de	el Pinciano					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Pacuvio	authority	seccion4	1660	Espinosa Medrano, Juan de	Pacuvio					
-1662_apologetico	Lucrecio	authority	seccion4	1660	Espinosa Medrano, Juan de	Lucrecio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Lucrecio	authority	seccion4	1660	Espinosa Medrano, Juan de	Lucrecio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	OC264B	ref	seccion4	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC313	ref	seccion4	1660	Espinosa Medrano, Juan de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4	1660	Espinosa Medrano, Juan de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC313	ref	seccion4	1660	Espinosa Medrano, Juan de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC264B	ref	seccion4	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Villar, Francisco del	polemist	seccion4	1660	Espinosa Medrano, Juan de	Francisco del Villar					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	san Jerónimo	authority	seccion4	1660	Espinosa Medrano, Juan de	San Jerónimo					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC313	ref	seccion4	1660	Espinosa Medrano, Juan de		Si arrebatado merecí algún día	1617			
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Sabino, Georgio	authority	seccion4	1660	Espinosa Medrano, Juan de	Georgio Sabino					
-1662_apologetico	Morales, Ambrosio de	authority	seccion4	1660	Espinosa Medrano, Juan de	el regio cronista Ambrosio de Morales					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Morales, Ambrosio de	authority	seccion4	1660	Espinosa Medrano, Juan de	Ambrosio de Morales					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Morales, Ambrosio de	authority	seccion4	1660	Espinosa Medrano, Juan de	Ambrosio de Morales					
-1662_apologetico	Homero	authority	seccion4	1660	Espinosa Medrano, Juan de	Homero					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	el Marón					
-1662_apologetico	Homero	authority	seccion4	1660	Espinosa Medrano, Juan de	del Griego					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	OC255	ref	seccion4	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion4	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Cicerón	authority	seccion4	1660	Espinosa Medrano, Juan de	Cicerón					
-1662_apologetico	Virgilio	authority	seccion4	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Mena, Juan de	authority	seccion5_Faría	1660	Faria e Sousa, Manuel de	Juan de Mena					
-1662_apologetico	Góngora, Luis de	polemist	seccion5_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Petrarca	authority	seccion5_Faría	1660	Faria e Sousa, Manuel de	Petrarca					
-1662_apologetico	Boscán	authority	seccion5_Faría	1660	Faria e Sousa, Manuel de	Boscán					
-1662_apologetico	Garcilaso	authority	seccion5_Faría	1660	Faria e Sousa, Manuel de	Garcilaso					
-1662_apologetico	Gómez Manrique	authority	seccion5_Faría	1660	Faria e Sousa, Manuel de	Gómez Manrique					
-1662_apologetico	Góngora, Luis de	polemist	seccion5_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Paravicino, fray Hortensio Félix	authority	seccion5	1660	Espinosa Medrano, Juan de	el mayor orador que admiró España, Hortensio					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	este divino Dédalo					
-1662_apologetico	OC264C	ref	seccion5	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	Mena, Juan de	authority	seccion5	1660	Espinosa Medrano, Juan de	Juan de Mena					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion5	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Mena,Juan de	authority	seccion5	1660	Espinosa Medrano, Juan de	Mena					
-1662_apologetico	Gómez Manrique	authority	seccion5	1660	Espinosa Medrano, Juan de	Gómez Manrique					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Oña, Pedro de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Pedro de Oña					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	este dulcísimo cisne					
-1662_apologetico	Plinio el menor	authority	seccion5	1660	Espinosa Medrano, Juan de	Plinio el menor					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Mena, Juan de	authority	seccion5	1660	Espinosa Medrano, Juan de	Mena					
-1662_apologetico	Garcilaso	authority	seccion5	1660	Espinosa Medrano, Juan de	Garcilaso					
-1662_apologetico	Boscán	authority	seccion5	1660	Espinosa Medrano, Juan de	Boscán					
-1662_apologetico	Gómez Manrique	authority	seccion5	1660	Espinosa Medrano, Juan de	Gómez Manrique					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Garcilaso	authority	seccion5	1660	Espinosa Medrano, Juan de	Garcilaso					
-1662_apologetico	Barahona de Soto, Luis	authority	seccion5	1660	Espinosa Medrano, Juan de	Luis Barahona de Soto					
-1662_apologetico	Silvestre, Gregorio	authority	seccion5	1660	Espinosa Medrano, Juan de	Gregorio Silvestre					
-1662_apologetico	Pinciano, Alonso López	authority	seccion5	1660	Espinosa Medrano, Juan de	El Pinciano					
-1662_apologetico	Gómez de Ciudad Real, Alvar	authority	seccion5	1660	Espinosa Medrano, Juan de	Alvar Gómez					
-1662_apologetico	Cervantes, Miguel de	authority	seccion5	1660	Espinosa Medrano, Juan de	Miguel de Cervantes					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Lucrecio	authority	seccion5	1660	Espinosa Medrano, Juan de	Lucrecio					
-1662_apologetico	Apuleyo	authority	seccion5	1660	Espinosa Medrano, Juan de	Apuleyo					
-1662_apologetico	Lucrecio	authority	seccion5	1660	Espinosa Medrano, Juan de	Lucrecio					
-1662_apologetico	Garcilaso	authority	seccion5	1660	Espinosa Medrano, Juan de	Garcilaso					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Morales, Ambrosio de	authority	seccion5	1660	Espinosa Medrano, Juan de	Ambrosio de Morales					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Homero	authority	seccion5	1660	Espinosa Medrano, Juan de	Homero					
-1662_apologetico	Virgilio	authority	seccion5	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Ovidio	authority	seccion5	1660	Espinosa Medrano, Juan de	Ovidio					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	OC255	ref	seccion5	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Mureto, Marco Antonio	authority	seccion5	1660	Espinosa Medrano, Juan de	Marco Antonio Mureto					
-1662_apologetico	Mureto, Marco Antonio	authority	seccion5	1660	Espinosa Medrano, Juan de	Marco Antonio					
-1662_apologetico	Cicerón	authority	seccion5	1660	Espinosa Medrano, Juan de	Tulio					
-1662_apologetico	Marcial	authority	seccion5	1660	Espinosa Medrano, Juan de	Marcial					
-1662_apologetico	Aristóteles	authority	seccion5	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Mureto, Marco Antonio	authority	seccion5	1660	Espinosa Medrano, Juan de	Mureto					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	san Cipriano	authority	seccion5	1660	Espinosa Medrano, Juan de	San Cipriano					
-1662_apologetico	Erasmo	authority	seccion5	1660	Espinosa Medrano, Juan de	Erasmo					
-1662_apologetico	Cornelio Tácito	authority	seccion5	1660	Espinosa Medrano, Juan de	Cornelio Tácito					
-1662_apologetico	Mureto, Marco Antonio 	authority	seccion5	1660	Espinosa Medrano, Juan de	Mureto					
-1662_apologetico	Alciato	authority	seccion5	1660	Espinosa Medrano, Juan de	Alciato					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Plinio el Mayor	authority	seccion5	1660	Espinosa Medrano, Juan de	Plinio					
-1662_apologetico	Horacio	authority	seccion5	1660	Espinosa Medrano, Juan de	Horacio					
-1662_apologetico	Marcial	authority	seccion5	1660	Espinosa Medrano, Juan de	Marcial					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion5	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion5	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC264B	ref	seccion5	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion5	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Homero	authority	seccion5	1660	Espinosa Medrano, Juan de	Homero					
-1662_apologetico	Virgilio	authority	seccion5	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Góngora, Luis de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Nebrija, Antonio de	authority	seccion5	1660	Espinosa Medrano, Juan de	el Nebrisense					
-1662_apologetico	Cicerón	authority	seccion5	1660	Espinosa Medrano, Juan de	Tulio					
-1662_apologetico	Quintiliano	authority	seccion5	1660	Espinosa Medrano, Juan de	Quintiliano					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion5	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Cicerón	authority	seccion5	1660	Espinosa Medrano, Juan de	mayor orador del mundo					
-1662_apologetico	Macrobio	authority	seccion6_Faría	1660	Faria e Sousa, Manuel de	Macrobio					
-1662_apologetico	Virgilio	authority	seccion6_Faría	1660	Faria e Sousa, Manuel de	Virgilio					
-1662_apologetico	Góngora, Luis de	polemist	seccion6_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Virgilio	authority	seccion6_Faría	1660	Faria e Sousa, Manuel de	Virgilio					
-1662_apologetico	Macrobio	authority	seccion6_Faría	1660	Faria e Sousa, Manuel de	Macrobio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	sicofanta					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Cicerón	authority	seccion6	1660	Espinosa Medrano, Juan de	Tulio					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	el filósofo					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	el filósofo					
-1662_apologetico	Ariphades	authority	seccion6	1660	Espinosa Medrano, Juan de	Ariphades					
-1662_apologetico	Ariphades	authority	seccion6	1660	Espinosa Medrano, Juan de	Ariphades					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC264B	ref	seccion6	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	López Pinciano, Alonso	authority	seccion6	1660	Espinosa Medrano, Juan de	el Pinciano					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	OC255	ref	seccion6	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion6	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC255	ref	seccion6	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	López Pinciano, Alonso	authority	seccion6	1660	Espinosa Medrano, Juan de	el Pinciano					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	OC255	ref	seccion6	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC255	ref	seccion6	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Plinio el Mayor	authority	seccion6	1660	Espinosa Medrano, Juan de	Plinio el Mayor					
-1662_apologetico	Plinio el Mayor	authority	seccion6	1660	Espinosa Medrano, Juan de	Plinio					
-1662_apologetico	Cicerón	authority	seccion6	1660	Espinosa Medrano, Juan de	Tulio					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Plinio el Mayor	authority	seccion6	1660	Espinosa Medrano, Juan de	Plinio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC255	ref	seccion6	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Plinio el Mayor	authority	seccion6	1660	Espinosa Medrano, Juan de	Plinio					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	OC264C	ref	seccion6	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC255	ref	seccion6	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Argensola, Bartolomé Leonardo de	authority	seccion6	1660	Espinosa Medrano, Juan de	Bartolomé Leonardo, Febo					
-1662_apologetico	Gracián, Juan	authority	seccion6	1660	Espinosa Medrano, Juan de	el judicioso Gracián					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC149	ref	seccion6	1660	Espinosa Medrano, Juan de		¿Qué lleva el señor Esgueva?	1603			
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	el príncipe de los poetas					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	el grande Marón y divino poeta					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Turnebe, Adrien	authority	seccion6	1660	Espinosa Medrano, Juan de	Turnebo					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Servio	authority	seccion6	1660	Espinosa Medrano, Juan de	Servio					
-1662_apologetico	Turnebe, Adrien	authority	seccion6	1660	Espinosa Medrano, Juan de	Turnebo					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	el poeta					
-1662_apologetico	Ascensio	authority	seccion6	1660	Espinosa Medrano, Juan de	Ascensio					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Claudiano	authority	seccion6	1660	Espinosa Medrano, Juan de	Claudiano					
-1662_apologetico	san Juan Crisóstomo	authority	seccion6	1660	Espinosa Medrano, Juan de	Crisóstomo					
-1662_apologetico	Erasmo	authority	seccion6	1660	Espinosa Medrano, Juan de	Erasmo					
-1662_apologetico	Lelio Tifernate	authority	seccion6	1660	Espinosa Medrano, Juan de	Lelio Tifernate					
-1662_apologetico	san Juan Crisóstomo	authority	seccion6	1660	Espinosa Medrano, Juan de	divino Crisóstomo					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobios					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Farías					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Tales	authority	seccion6	1660	Espinosa Medrano, Juan de	Tales					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	santo Tomás	authority	seccion6	1660	Espinosa Medrano, Juan de	el angélico doctor santo Tomás					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Tales	authority	seccion6	1660	Espinosa Medrano, Juan de	Tales					
-1662_apologetico	Aristóteles	authority	seccion6	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Molina, Luis de 	authority	seccion6	1660	Espinosa Medrano, Juan de	Molina					
-1662_apologetico	Lucrecio	authority	seccion6	1660	Espinosa Medrano, Juan de	Lucrecio					
-1662_apologetico	Lucano	authority	seccion6	1660	Espinosa Medrano, Juan de	Lucano					
-1662_apologetico	Apuleyo	authority	seccion6	1660	Espinosa Medrano, Juan de	Apuleyo					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Beroaldo, Filipo	authority	seccion6	1660	Espinosa Medrano, Juan de	Filipo Beroaldo					
-1662_apologetico	Apuleyo	authority	seccion6	1660	Espinosa Medrano, Juan de	Apuleyo					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Cerda, Juan Luis de la	authority	seccion6	1660	Espinosa Medrano, Juan de	Cerda					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Macrobio	authority	seccion6	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Homero	authority	seccion6	1660	Espinosa Medrano, Juan de	Homero					
-1662_apologetico	Ovidio	authority	seccion6	1660	Espinosa Medrano, Juan de	Ovidio					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion6	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilios					
-1662_apologetico	Horacio	authority	seccion6	1660	Espinosa Medrano, Juan de	Horacios					
-1662_apologetico	Píndaro	authority	seccion6	1660	Espinosa Medrano, Juan de	Píndaros					
-1662_apologetico	Homero	authority	seccion6	1660	Espinosa Medrano, Juan de	Homeros					
-1662_apologetico	Plauto	authority	seccion6	1660	Espinosa Medrano, Juan de	Plautos					
-1662_apologetico	Menandro	authority	seccion6	1660	Espinosa Medrano, Juan de	Menandros					
-1662_apologetico	Góngora, Luis de	polemist	seccion6	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Virgilio	authority	seccion6	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Camões	authority	seccion6	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Góngora, Luis de	polemist	seccion7_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Mahoma	authority	seccion7_Faría	1660	Faria e Sousa, Manuel de	Mahoma					
-1662_apologetico	Góngora, Luis de	polemist	seccion7_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion7	1660	Espinosa Medrano, Juan de	nuestro Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Él					
-1662_apologetico	OC463	ref	seccion7	1660	Espinosa Medrano, Juan de		Patos de la aguachirle castellana,	ant. a 1622			
-1662_apologetico	OC463	ref	seccion7	1660	Espinosa Medrano, Juan de		Patos de la aguachirle castellana,	ant. a 1622			
-1662_apologetico	OC463	ref	seccion7	1660	Espinosa Medrano, Juan de		Patos de la aguachirle castellana,	ant. a 1622			
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion7	1660	Espinosa Medrano, Juan de	Salcedo Coronel					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Macrobio	authority	seccion7	1660	Espinosa Medrano, Juan de	Macrobio					
-1662_apologetico	Góngora, Luis de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion7	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Góngora, Luis de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Góngora, Luis de	polemist	seccion7	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion7	1660	Espinosa Medrano, Juan de	don García Coronel					
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion7	1660	Espinosa Medrano, Juan de	Salcedo Coronel					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion7	1660	Espinosa Medrano, Juan de	don Luis					
-1662_apologetico	Camões	authority	seccion7	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Tertuliano	authority	seccion7	1660	Espinosa Medrano, Juan de	Tertuliano					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion7	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion8_Faría	1660	Faria e Sousa, Manuel de	don Luis					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion8	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Pellicer, José	polemist	seccion8	1660	Espinosa Medrano, Juan de	don Joseph Pellicer					
-1662_apologetico	OC264B	ref	seccion8	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Pellicer, José	polemist	seccion8	1660	Espinosa Medrano, Juan de	don Joseph Pellicer					
-1662_apologetico	Salcedo Coronel, García de 	polemist	seccion8	1660	Espinosa Medrano, Juan de	don García Coronel					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion8	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC26	ref	seccion8	1660	Espinosa Medrano, Juan de		Que se nos va la pascua, mozas	1582			
-1662_apologetico	OC80	ref	seccion8	1660	Espinosa Medrano, Juan de		Famosos son, en las armas	1590			
-1662_apologetico	OC389	ref	seccion8	1660	Espinosa Medrano, Juan de		Menos solicitó veloz saeta	1623			
-1662_apologetico	OC264B	ref	seccion8	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC311	ref	seccion8	1660	Espinosa Medrano, Juan de		En vez de las Helíades, ahora	1617			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC315	ref	seccion8	1660	Espinosa Medrano, Juan de		Caballo que despediste,	1617			
-1662_apologetico	OC324	ref	seccion8	1660	Espinosa Medrano, Juan de		Guerra me hacen dos cuidados	1619			
-1662_apologetico	OC383	ref	seccion8	1660	Espinosa Medrano, Juan de		«Ave del plumaje negro,	1622			
-1662_apologetico	OC255	ref	seccion8	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC145	ref	seccion8	1660	Espinosa Medrano, Juan de		Sobre trastes de guijas	1603			
-1662_apologetico	OC18	ref	seccion8	1660	Espinosa Medrano, Juan de		Cual parece al romper de la mañana	1582			
-1662_apologetico	OC33	ref	seccion8	1660	Espinosa Medrano, Juan de		Cuál del Ganges marfil, o cuál de Paro	1583			
-1662_apologetico	OC61	ref	seccion8	1660	Espinosa Medrano, Juan de		Levantando blanca espuma	1586			
-1662_apologetico	OC82	ref	seccion8	1660	Espinosa Medrano, Juan de		Dejad los libros ahora	1590			
-1662_apologetico	OC147	ref	seccion8	1660	Espinosa Medrano, Juan de		De un monte en los senos, donde	1603			
-1662_apologetico	OC160	ref	seccion8	1660	Espinosa Medrano, Juan de		A un tiempo dejaba el sol	1605			
-1662_apologetico	OC202	ref	seccion8	1660	Espinosa Medrano, Juan de		Mal haya el que en señores idolatra	1609			
-1662_apologetico	OC219	ref	seccion8	1660	Espinosa Medrano, Juan de		Pálida restituye a su elemento	1610			
-1662_apologetico	OC249	ref	seccion8	1660	Espinosa Medrano, Juan de		Cloris, el más bello grano	1611			
-1662_apologetico	OC255	ref	seccion8	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC264B	ref	seccion8	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC350	ref	seccion8	1660	Espinosa Medrano, Juan de		Por las faldas del Atlante,	1620			
-1662_apologetico	OC372	ref	seccion8	1660	Espinosa Medrano, Juan de		Guarda corderos, zagala,	1621			
-1662_apologetico	OC375	ref	seccion8	1660	Espinosa Medrano, Juan de		Al tronco descansaba de una encina	1622			
-1662_apologetico	OC255	ref	seccion8	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	OC264C	ref	seccion8	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	OC279	ref	seccion8	1660	Espinosa Medrano, Juan de		Al campo salió, el estío,	1614			
-1662_apologetico	OC313	ref	seccion8	1660	Espinosa Medrano, Juan de		Si arrebatado merecí algún día	1617			
-1662_apologetico	OC317	ref	seccion8	1660	Espinosa Medrano, Juan de		La ciudad de Babilonia,	1618			
-1662_apologetico	OC351	ref	seccion8	1660	Espinosa Medrano, Juan de		En la fuerza de Almería	1620			
-1662_apologetico	OC360	ref	seccion8	1660	Espinosa Medrano, Juan de		Aljófares risueños de Albïela:	1621			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion8	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion8	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion8	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion9_Faría	1660	Faria e Sousa, Manuel de	él					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Virgilio	authority	seccion9	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Donato	authority	seccion9	1660	Espinosa Medrano, Juan de	Donato					
-1662_apologetico	Virgilio	authority	seccion9	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Lucano	authority	seccion9	1660	Espinosa Medrano, Juan de	Lucano					
-1662_apologetico	Claudiano	authority	seccion9	1660	Espinosa Medrano, Juan de	Claudiano					
-1662_apologetico	Ronsard	authority	seccion9	1660	Espinosa Medrano, Juan de	Ronsard					
-1662_apologetico	OC264B	ref	seccion9	1660	Espinosa Medrano, Juan de		Era del año la estación florida [Soledad Primera]	1613			
-1662_apologetico	Vatablo	authority	seccion9	1660	Espinosa Medrano, Juan de	Vatablo					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Marcial	authority	seccion9	1660	Espinosa Medrano, Juan de	Marcial					
-1662_apologetico	Aristóteles	authority	seccion9	1660	Espinosa Medrano, Juan de	Aristóteles					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Teócrito	authority	seccion9	1660	Espinosa Medrano, Juan de	Teócrito					
-1662_apologetico	Ovidio	authority	seccion9	1660	Espinosa Medrano, Juan de	Ovidio					
-1662_apologetico	Homero	authority	seccion9	1660	Espinosa Medrano, Juan de	Homero					
-1662_apologetico	Virgilio	authority	seccion9	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Teócrito	authority	seccion9	1660	Espinosa Medrano, Juan de	Teócrito					
-1662_apologetico	Ovidio	authority	seccion9	1660	Espinosa Medrano, Juan de	Ovidio					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	sicofanta					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Góngora, Luis de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Marcial	authority	seccion9	1660	Espinosa Medrano, Juan de	Marcial					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Salustio	authority	seccion9	1660	Espinosa Medrano, Juan de	Salustio					
-1662_apologetico	Petrarca	authority	seccion9	1660	Espinosa Medrano, Juan de	Petrarca					
-1662_apologetico	Corte-Real, Jerónimo de	authority	seccion9	1660	Espinosa Medrano, Juan de	Corte Real					
-1662_apologetico	Valdivieso	authority	seccion9	1660	Espinosa Medrano, Juan de	Valdivieso					
-1662_apologetico	Boiardo, Matteo Maria	authority	seccion9	1660	Espinosa Medrano, Juan de	Boyardo					
-1662_apologetico	Góngora, Luis de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Montemayor, Jorge de	authority	seccion9	1660	Espinosa Medrano, Juan de	Montemayor					
-1662_apologetico	Marino, Giambattista	authority	seccion9	1660	Espinosa Medrano, Juan de	Marino					
-1662_apologetico	Tasso, Torquato	authority	seccion9	1660	Espinosa Medrano, Juan de	Tasso					
-1662_apologetico	Vega, Lope de	authority	seccion9	1660	Espinosa Medrano, Juan de	Lope de Vega					
-1662_apologetico	Camões	authority	seccion9	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Vega, Lope de	authority	seccion9	1660	Espinosa Medrano, Juan de	Lope					
-1662_apologetico	Escalígero	authority	seccion9	1660	Espinosa Medrano, Juan de	Escalígero					
-1662_apologetico	Verderio, Antonio	authority	seccion9	1660	Espinosa Medrano, Juan de	Antonio Verderio					
-1662_apologetico	Pedro Aretino	authority	seccion9	1660	Espinosa Medrano, Juan de	Pedro Aretino					
-1662_apologetico	Vega, Lope de	authority	seccion9	1660	Espinosa Medrano, Juan de	Lope de Vega					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Camões	authority	seccion9	1660	Espinosa Medrano, Juan de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion9	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	nuestro Mastige					
-1662_apologetico	OC223	ref	seccion10	1660	Espinosa Medrano, Juan de		En roscas de cristal serpiente breve	1610			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC255	ref	seccion10	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC317	ref	seccion10	1660	Espinosa Medrano, Juan de		La ciudad de Babilonia,	1618			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC313	ref	seccion10	1660	Espinosa Medrano, Juan de		Si arrebatado merecí algún día	1617			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Virgilio	authority	seccion10	1660	Espinosa Medrano, Juan de	Virgilio					
-1662_apologetico	Ezequiel, profeta	authority	seccion10	1660	Espinosa Medrano, Juan de	Ezequiel					
-1662_apologetico	Homero	authority	seccion10	1660	Espinosa Medrano, Juan de	Homero					
-1662_apologetico	san Mateo	authority	seccion10	1660	Espinosa Medrano, Juan de	San Mateo					
-1662_apologetico	OC255	ref	seccion10	1660	Espinosa Medrano, Juan de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Manuel de Faría y Sousa					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Corte-Real, Jerónimo	authority	seccion10	1660	Espinosa Medrano, Juan de	Corte Real					
-1662_apologetico	Valdivieso	authority	seccion10	1660	Espinosa Medrano, Juan de	Valdivieso					
-1662_apologetico	Boiardo, Matteo Maria	authority	seccion10	1660	Espinosa Medrano, Juan de	Boyardo					
-1662_apologetico	Góngora, Luis de	polemist	seccion10	1660	Espinosa Medrano, Juan de	Góngora					
-1662_apologetico	Montemayor, Jorge de	authority	seccion10	1660	Espinosa Medrano, Juan de	Montemayor					
-1662_apologetico	Marino, Giambattista	authority	seccion10	1660	Espinosa Medrano, Juan de	Marino					
-1662_apologetico	Tasso, Torquato	authority	seccion10	1660	Espinosa Medrano, Juan de	Tasso					
-1662_apologetico	Vega, Lope de	authority	seccion10	1660	Espinosa Medrano, Juan de	Lope de Vega					
-1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría	1660	Faria e Sousa, Manuel de	Góngora					
-1662_apologetico	Camões	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Luis de Camões					
-1662_apologetico	Vicuña	polemist	seccion11_Faría	1660	Faria e Sousa, Manuel de	los que le llaman Homero a Góngora					
-1662_apologetico	Homero	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Homero					
-1662_apologetico	Virgilio	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Virgilio					
-1662_apologetico	Camões	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Camões					
-1662_apologetico	Marcial	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Marcial					
-1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría	1660	Faria e Sousa, Manuel de	Góngora					
-1662_apologetico	Estacio	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Estacio					
-1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría	1660	Faria e Sousa, Manuel de	Góngora					
-1662_apologetico	Camões	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Camões					
-1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría	1660	Faria e Sousa, Manuel de	Góngora					
-1662_apologetico	Camões	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Camões					
-1662_apologetico	Camões	authority	seccion11_Faría	1660	Faria e Sousa, Manuel de	Camões					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion11	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	OC41	ref	seccion12	1660	Espinosa Medrano, Juan de		La dulce boca que a gustar convida	1584			
-1662_apologetico	OC264C	ref	seccion12	1660	Espinosa Medrano, Juan de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion12	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion12	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Faria e Sousa, Manuel de	polemist	seccion12	1660	Espinosa Medrano, Juan de	Faría					
-1662_apologetico	Albiz, Nicolás de	polemist	seccion12	1660	Espinosa Medrano, Juan de	Nicolás de Albiz					
-1662_apologetico	Salazar Mardones, Cristóbal de	polemist	seccion12	1660	Espinosa Medrano, Juan de	Cristóbal de Salazar Mardones					
-1662_apologetico	Salazar Mardones, Cristóbal de	polemist	seccion12	1660	Espinosa Medrano, Juan de	Cristóbal de Salazar Mardones					
-1662_apologetico	Salazar Mardones, Cristóbal de	polemist	seccion12	1660	Espinosa Medrano, Juan de	Cristóbal de Salazar Mardones					
+1662_apologetico	Góngora, Luis de	polemist	seccion2_Faría		Faria e Sousa, Manuel de	Luis de Góngora					
+1662_apologetico	Góngora, Luis de	polemist	seccion2_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Camões	authority	seccion2_Faría		Faria e Sousa, Manuel de	nuestro poeta					
+1662_apologetico	Góngora, Luis de	polemist	seccion2_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	OC255	ref	seccion2_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	OC255	ref	seccion2_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	OC255	ref	seccion2_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	OC255	ref	seccion2_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	OC255	ref	seccion2_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	OC255	ref	seccion2_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	OC264B	ref	seccion2_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion2_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion2_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion2_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion2_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion2_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC255	ref	seccion3_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	Góngora, Luis de	polemist	seccion3_Faría		Faria e Sousa, Manuel de	el poeta					
+1662_apologetico	OC264B	ref	seccion3_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC255	ref	seccion3_Faría		Faria e Sousa, Manuel de		Estas, que me dictó, rimas sonoras [Fábula de Polifemo y Galatea]	1612			
+1662_apologetico	OC264B	ref	seccion3_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264C	ref	seccion3_Faría		Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1662_apologetico	Camões	authority	seccion3_Faría		Faria e Sousa, Manuel de	mi poeta					
+1662_apologetico	OC264B	ref	seccion4_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion4_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion4_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264B	ref	seccion4_Faría		Faria e Sousa, Manuel de		Era del año la estación florida [Soledad Primera]	1613			
+1662_apologetico	OC264C	ref	seccion4_Faría		Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1662_apologetico	OC264C	ref	seccion4_Faría		Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1662_apologetico	OC264C	ref	seccion4_Faría		Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1662_apologetico	OC264C	ref	seccion4_Faría		Faria e Sousa, Manuel de		Éntrase el mar por un arroyo breve [Soledad Segunda]	1614			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	OC313	ref	seccion4_Faría		Faria e Sousa, Manuel de		Si arrebatado merecí algún día	1617			
+1662_apologetico	Góngora, Luis de	polemist	seccion4_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Dante	authority	seccion4_Faría		Faria e Sousa, Manuel de	Dante					
+1662_apologetico	Petrarca	authority	seccion4_Faría		Faria e Sousa, Manuel de	Petrarca					
+1662_apologetico	sannazaro	authority	seccion4_Faría		Faria e Sousa, Manuel de	Sannazaro					
+1662_apologetico	Ariosto	authority	seccion4_Faría		Faria e Sousa, Manuel de	Ariosto					
+1662_apologetico	Tasso	authority	seccion4_Faría		Faria e Sousa, Manuel de	Tasso					
+1662_apologetico	Garcilaso	authority	seccion4_Faría		Faria e Sousa, Manuel de	Garcilaso					
+1662_apologetico	Camões	authority	seccion4_Faría		Faria e Sousa, Manuel de	Camões					
+1662_apologetico	Cicerón	authority	seccion4_Faría		Faria e Sousa, Manuel de	Cicerón					
+1662_apologetico	Góngora, Luis de	polemist	seccion4_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Mena, Juan de	authority	seccion5_Faría		Faria e Sousa, Manuel de	Juan de Mena					
+1662_apologetico	Góngora, Luis de	polemist	seccion5_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Petrarca	authority	seccion5_Faría		Faria e Sousa, Manuel de	Petrarca					
+1662_apologetico	Boscán	authority	seccion5_Faría		Faria e Sousa, Manuel de	Boscán					
+1662_apologetico	Garcilaso	authority	seccion5_Faría		Faria e Sousa, Manuel de	Garcilaso					
+1662_apologetico	Gómez Manrique	authority	seccion5_Faría		Faria e Sousa, Manuel de	Gómez Manrique					
+1662_apologetico	Góngora, Luis de	polemist	seccion5_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Macrobio	authority	seccion6_Faría		Faria e Sousa, Manuel de	Macrobio					
+1662_apologetico	Virgilio	authority	seccion6_Faría		Faria e Sousa, Manuel de	Virgilio					
+1662_apologetico	Góngora, Luis de	polemist	seccion6_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Virgilio	authority	seccion6_Faría		Faria e Sousa, Manuel de	Virgilio					
+1662_apologetico	Macrobio	authority	seccion6_Faría		Faria e Sousa, Manuel de	Macrobio					
+1662_apologetico	Góngora, Luis de	polemist	seccion7_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Mahoma	authority	seccion7_Faría		Faria e Sousa, Manuel de	Mahoma					
+1662_apologetico	Góngora, Luis de	polemist	seccion7_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Góngora, Luis de	polemist	seccion8_Faría		Faria e Sousa, Manuel de	don Luis					
+1662_apologetico	Góngora, Luis de	polemist	seccion9_Faría		Faria e Sousa, Manuel de	él					
+1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría		Faria e Sousa, Manuel de	Góngora					
+1662_apologetico	Camões	authority	seccion11_Faría		Faria e Sousa, Manuel de	Luis de Camões					
+1662_apologetico	Vicuña	polemist	seccion11_Faría		Faria e Sousa, Manuel de	los que le llaman Homero a Góngora					
+1662_apologetico	Homero	authority	seccion11_Faría		Faria e Sousa, Manuel de	Homero					
+1662_apologetico	Virgilio	authority	seccion11_Faría		Faria e Sousa, Manuel de	Virgilio					
+1662_apologetico	Camões	authority	seccion11_Faría		Faria e Sousa, Manuel de	Camões					
+1662_apologetico	Marcial	authority	seccion11_Faría		Faria e Sousa, Manuel de	Marcial					
+1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría		Faria e Sousa, Manuel de	Góngora					
+1662_apologetico	Estacio	authority	seccion11_Faría		Faria e Sousa, Manuel de	Estacio					
+1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría		Faria e Sousa, Manuel de	Góngora					
+1662_apologetico	Camões	authority	seccion11_Faría		Faria e Sousa, Manuel de	Camões					
+1662_apologetico	Góngora, Luis de	polemist	seccion11_Faría		Faria e Sousa, Manuel de	Góngora					
+1662_apologetico	Camões	authority	seccion11_Faría		Faria e Sousa, Manuel de	Camões					
+1662_apologetico	Camões	authority	seccion11_Faría		Faria e Sousa, Manuel de	Camões					
 
